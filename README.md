@@ -70,6 +70,10 @@ _Constantin Seibold, Simon Reiß, M. Saquib Sarfraz, Rainer Stiefelhagen, Jens K
 _Yimu Pan, Alison D. Gernand, Jeﬀery A. Goldstein, Leena Mithal, Delia Mwinyelle, James Z. Wang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_68)]
 
+[**ACM MM 2022**] Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge \
+_Zhihong Chen, Guanbin Li, Xiang Wan_ \
+[[paper](https://arxiv.org/abs/2209.07118)] [[code](https://github.com/zhjohnchan/ARL)]
+
 [**MLHC 2022**] Contrastive Learning of Medical Visual Representations from Paired Images and Text \
 _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz_ \
 [[paper](https://proceedings.mlr.press/v182/zhang22a.html)] [[code](https://github.com/edreisMD/ConVIRT-pytorch)]
@@ -78,12 +82,19 @@ _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Lang
 _Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu_\
 [[paper](https://www.nature.com/articles/s42256-021-00425-9)] [[code](https://github.com/funnyzhou/REFERS)]
 
+[**ICLR 2023**] Advancing Radiograph Representation Learning with Masked Record Modeling \
+_Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu_ \
+[[paper](https://openreview.net/forum?id=w-x7U26GM7j)] [[code](https://github.com/RL4M/MRM-pytorch)]
+
+[**arXiv 2023**] Local Contrastive Learning for Medical Image Recognition \
+_Syed A. Rizvi, Ruixiang Tang, Xiaoqian Jiang, Xiaotian Ma, Xia Hu_ \
+[[paper](https://arxiv.org/abs/2303.14153)]
+
 ---
 
 ### CLIP-Driven Application
 
 #### Classification Task
-
 
 #### Dense Prediction Task
 
@@ -105,7 +116,7 @@ _Jie Liu, Yixiao Zhang, Jie-Neng Chen, Junfei Xiao, Yongyi Lu, Bennett A Landman
 
 [**MICCAI 2023**] Multiple Prompt Fusion for Zero-Shot Lesion Detection Using Vision-Language Models\
 _Miaotian Guo, Huahui Yi, Ziyuan Qin, Haiying Wang, Aidong Men, Qicheng Lao_\
-[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_28)] 
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_28)]
 
 [**MICCAI 2023**] Zero-shot Nuclei Detection via Visual-Language Pre-trained Models\
 _Yongjian Wu, Yang Zhou, Jiya Saiyin, Bingzheng Wei, Maode Lai, Jianzhong Shou, Yubo Fan, Yan Xu_\
@@ -130,6 +141,5 @@ _Deepa Anand, Gurunath Reddy M, Vanika Singhal, Dattesh D. Shanbhag, Shriram KS,
 [**arXiv 2023**] AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection\
 _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 [[paper](https://arxiv.org/pdf/2310.18961.pdf)] [[code](https://github.com/zqhang/AnomalyCLIP)]
-
 
 #### Cross-Modal Task
