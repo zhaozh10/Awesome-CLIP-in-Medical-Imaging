@@ -150,10 +150,6 @@ _Bhawesh Kumar, Anil Palepu, Rudraksh Tuwani, Andrew Beam_ \[[paper](https://arx
 [**IEEE-Asia 2022**] Transfer Learning for Medical Image Classification on Multiple Datasets using PubMedCLIP \
 _Hong N. Dao, Tuyen Nguyen Quang, Incheon Paik_ \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954669)] 
 
-[**IPMI 2023**] X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation \
-_Tom van Sonsbeek, Marcel Worring_ \[[paper](https://arxiv.org/pdf/2302.11352.pdf)] 
-
-
 [**MICCAI 2023**] Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis \
 _Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab_ \[[paper](https://arxiv.org/pdf/2303.13391.pdf)] \[[code](https://github.com/ChantalMP/Xplainer
 )]
@@ -207,4 +203,29 @@ _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 
 
 #### Cross-Modal Task
+
+[**IPMI 2023**] X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation \
+_Tom van Sonsbeek, Marcel Worring_ \[[paper](https://arxiv.org/pdf/2302.11352.pdf)] 
+
+[**MICCAI 2023**] Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models \
+_Tom van Sonsbeek, Mohammad Mahdi Derakhshani, Ivona Najdenkoska, Cees G. M. Snoek, and Marcel Worring_ \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_70)] \[[code](github.com/tjvsonsbeek/open-ended-medical-vqa)]
+
+
+[**IEEE Transactions on Emerging Topics in Computational Intelligence**] Parameter-Efficient Transfer Learning for Medical Visual Question Answering \
+_Jiaxiang Liu , Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao , Junhui Lv, and Zuozhu Liu_ \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10256025)] 
+
+
+[**arXiv 2023**] PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering \
+_Xiaoman Zhang, Chaoyi Wu, Ziheng Zhao, Weixiong Lin, Ya Zhang, Yanfeng Wang, Weidi Xie_ \[[paper](https://arxiv.org/pdf/2305.10415.pdf)]  \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
+
+
+[**ACL 2023**] PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain? \
+_Sedigheh Eslami, Gerard de Melo, Christoph Meinel_ \[[paper](https://arxiv.org/pdf/2305.10415.pdf)]  \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
+
+[**MICCAI 2023**] A Medical Semantic-Assisted Transformer for Radiographic Report Generation \
+_Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou_ \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)]
+
+[**MIDL 2023**] FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays \
+_Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab_ \[[paper](https://arxiv.org/pdf/2203.15723.pdf)]
+
 
