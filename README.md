@@ -70,6 +70,10 @@ _Constantin Seibold, Simon Reiß, M. Saquib Sarfraz, Rainer Stiefelhagen, Jens K
 _Yimu Pan, Alison D. Gernand, Jeﬀery A. Goldstein, Leena Mithal, Delia Mwinyelle, James Z. Wang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_68)]
 
+[**ACM MM 2022**] Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge \
+_Zhihong Chen, Guanbin Li, Xiang Wan_ \
+[[paper](https://arxiv.org/abs/2209.07118)] [[code](https://github.com/zhjohnchan/ARL)]
+
 [**MLHC 2022**] Contrastive Learning of Medical Visual Representations from Paired Images and Text \
 _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz_ \
 [[paper](https://proceedings.mlr.press/v182/zhang22a.html)] [[code](https://github.com/edreisMD/ConVIRT-pytorch)]
@@ -77,11 +81,34 @@ _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Lang
 [**NMI 2022**] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports\
 _Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu_\
 
+[**ICLR 2023**] Advancing Radiograph Representation Learning with Masked Record Modeling \
+_Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu_ \
+[[paper](https://openreview.net/forum?id=w-x7U26GM7j)] [[code](https://github.com/RL4M/MRM-pytorch)]
+
+[**arXiv 2023**] Local Contrastive Learning for Medical Image Recognition \
+_Syed A. Rizvi, Ruixiang Tang, Xiaoqian Jiang, Xiaotian Ma, Xia Hu_ \
+[[paper](https://arxiv.org/abs/2303.14153)]
+
+[**ISBRA 2023**] TCSA: A Text-Guided Cross-View Medical Semantic Alignment Framework for Adaptive Multi-view Visual Representation Learning \
+_Hongyang Lei, Huazhen Huang, Bokai Yang, Guosheng Cui, Ruxin Wang, Dan Wu , and Ye Li_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-981-99-7074-2_11#auth-Hongyang-Lei)]
+
+[**arXiv 2023**] Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining \
+_Bingqian Lin, Zicong Chen, Mingjie Li, Haokun Lin, Hang Xu, Yi Zhu, Jianzhuang Liu, Wenjia Cai, Lei Yang, Shen Zhao, Chenfei Wu, Ling Chen, Xiaojun Chang, Yi Yang, Lei Xing, Xiaodan Liang_ \
+[[paper](https://arxiv.org/abs/2304.14204)] [[code](https://github.com/chenzcv7/MOTOR)]
+
+[**CVPR 2023**] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing \
+_Shruthi Bannur,∗ Stephanie Hyland∗, Qianchu Liu, Fernando P ́ erez-Garc ́ıa, Maximilian Ilse, Daniel C. Castro, Benedikt Boecking, Harshita Sharma, Kenza Bouzid, Anja Thieme, Anton Schwaighofer, Maria Wetscherek, Matthew P. Lungren, Aditya Nori Javier Alvarez-Valle, Ozan Oktay_ \
+[[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.html)] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+
+[**arXiv 2023**]A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision \
+_Julio Silva-Rodriguez, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed_ \
+[[paper](https://arxiv.org/abs/2308.07898)] [[code](https://github.com/jusiro/FLAIR)]
+
 ---
 ### CLIP-Driven Application
 
 #### Classification Task
-
 
 [**arXiv 2023**] A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis  \
 _Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Xiaotang Gai, Yang Feng, Zuozhu Liu_ \
@@ -197,7 +224,7 @@ _Jie Liu, Yixiao Zhang, Jie-Neng Chen, Junfei Xiao, Yongyi Lu, Bennett A Landman
 
 [**MICCAI 2023**] Multiple Prompt Fusion for Zero-Shot Lesion Detection Using Vision-Language Models\
 _Miaotian Guo, Huahui Yi, Ziyuan Qin, Haiying Wang, Aidong Men, Qicheng Lao_\
-[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_28)] 
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_28)]
 
 [**MICCAI 2023**] Zero-shot Nuclei Detection via Visual-Language Pre-trained Models\
 _Yongjian Wu, Yang Zhou, Jiya Saiyin, Bingzheng Wei, Maode Lai, Jianzhong Shou, Yubo Fan, Yan Xu_\
@@ -256,5 +283,3 @@ _Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou_ \
 [**MIDL 2023**] FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays \
 _Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab_ \
 [[paper](https://arxiv.org/pdf/2203.15723.pdf)]
-
-
