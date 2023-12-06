@@ -187,6 +187,15 @@ _Michal Byra, Muhammad Febrian Rachmadi, Henrik Skibbe_ \
 _Chanwoo Kim, Soham U. Gadgil, Alex J. DeGrave, Zhuo Ran Cai, Roxana Daneshjou, Su-In Lee_ \
 [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312868/)] \[[code](https://github.com/suinleelab/MONET)]
 
+[**CEUR Workshop 2023**] Multi-stage Medical Image Captioning using Classification and CLIP \
+_Masaki Aono, Hiroki Shinoda, Tetsuya Asakawa, Kazuki Shimizu, Takuya Togawa, Takuyuki Komoda_ \
+[[paper](https://ceur-ws.org/Vol-3497/paper-113.pdf)]
+
+[**arXiv 2023**] Increasing Textual Context Size Boosts Medical Image-Text Matching \
+_Idan Glassberg, Tom Hope_ \
+[[paper](https://arxiv.org/pdf/2303.13340.pdf)] [[code](https://github.cs.huji.ac.il/tomhope-lab/ClipMD)]
+
+
 [**MIDL 2023**] Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models \
 _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz_ \
 [[paper](https://proceedings.mlr.press/v182/zhang22a.html)] \[[code](https://github.com/yuhaozhang/convirt)]
