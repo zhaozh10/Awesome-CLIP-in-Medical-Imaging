@@ -96,11 +96,23 @@ _Shruthi Bannur,∗ Stephanie Hyland∗, Qianchu Liu, Fernando P ́ erez-Garc ́
 _Zhihong Chen, Guanbin Li, Xiang Wan_ \
 [[paper](https://arxiv.org/abs/2209.07118)] [[code](https://github.com/zhjohnchan/ARL)]
 
+[**ICCV 2023**] MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training for X-ray Diagnosis \
+_Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie_ \
+[[paper](https://arxiv.org/abs/2301.02228)] [[code](https://github.com/MediaBrain-SJTU/MedKLIP)]
+
+[**Nature Communication 2023**] Knowledge-enhanced visual-language pre-training on chest radiology images \
+_Xiaoman Zhang, Chaoyi Wu, Ya Zhang, WeidiXie & Yanfeng Wang_ \
+[[paper](https://www.nature.com/articles/s41467-023-40260-7)] [[code](https://github.com/xiaoman-zhang/KAD)]
+
+[**MICCAI 2023**] Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training \
+_Xiaofei Chen, Yuting He, Cheng Xue, Rongjun Ge, Shuo Li, Guanyu Yang_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_39)] [[code](https://github.com/ChenXiaoFei-CS/KoBo)]
+
 [**arXiv 2023**] Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining \
 _Bingqian Lin, Zicong Chen, Mingjie Li, Haokun Lin, Hang Xu, Yi Zhu, Jianzhuang Liu, Wenjia Cai, Lei Yang, Shen Zhao, Chenfei Wu, Ling Chen, Xiaojun Chang, Yi Yang, Lei Xing, Xiaodan Liang_ \
 [[paper](https://arxiv.org/abs/2304.14204)] [[code](https://github.com/chenzcv7/MOTOR)]
 
-[**arXiv 2023**]A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision \
+[**arXiv 2023**] A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision \
 _Julio Silva-Rodriguez, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed_ \
 [[paper](https://arxiv.org/abs/2308.07898)] [[code](https://github.com/jusiro/FLAIR)]
 
