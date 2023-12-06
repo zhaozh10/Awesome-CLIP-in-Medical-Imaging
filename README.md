@@ -84,74 +84,96 @@ _Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Y
 
 
 [**arXiv 2023**] A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis  \
-_Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Xiaotang Gai, Yang Feng, Zuozhu Liu_ \[[paper](https://arxiv.org/pdf/2307.01981.pdf)] 
+_Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Xiaotang Gai, Yang Feng, Zuozhu Liu_ \
+[[paper](https://arxiv.org/pdf/2307.01981.pdf)] 
 
 [**arXiv 2023**]  Are Natural Domain Foundation Models Useful for Medical Image Classification?  \
-_Joana Palés Huix, Adithya Raju Ganeshan, Johan Fredin Haslum, Magnus Söderberg, Christos Matsoukas, Kevin Smith_ \[[paper](https://arxiv.org/pdf/2310.19522.pdf)]   \[[code](https://github.com/joanaapa/Foundation-Medical)] 
+_Joana Palés Huix, Adithya Raju Ganeshan, Johan Fredin Haslum, Magnus Söderberg, Christos Matsoukas, Kevin Smith_ \
+[[paper](https://arxiv.org/pdf/2310.19522.pdf)]   \[[code](https://github.com/joanaapa/Foundation-Medical)] 
 
 
 [**MICCAI 2022**] CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction  \
-_Yiming Lei, Zilong Li, Yan Shen, Junping Zhang, Hongming Shan_ \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_38)]  \[[code](https://github.com/ymLeiFDU/CLIP-Lung )] 
+_Yiming Lei, Zilong Li, Yan Shen, Junping Zhang, Hongming Shan_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_38)]  \[[code](https://github.com/ymLeiFDU/CLIP-Lung )] 
 
 [**ICCV 2023 workshop**] CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts \
-_Zhengfeng Lai, Zhuoheng Li, Luca Cerny Oliveira, Joohi Chauhan, Brittany N. Dugger, Chen-Nee Chuah_ \[[paper](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Lai_CLIPath_Fine-Tune_CLIP_with_Visual_Feature_Fusion_for_Pathology_Image_ICCVW_2023_paper.pdf)] 
+_Zhengfeng Lai, Zhuoheng Li, Luca Cerny Oliveira, Joohi Chauhan, Brittany N. Dugger, Chen-Nee Chuah_ \
+[[paper](https://openaccess.thecvf.com/content/ICCV2023W/CVAMD/papers/Lai_CLIPath_Fine-Tune_CLIP_with_Visual_Feature_Fusion_for_Pathology_Image_ICCVW_2023_paper.pdf)] 
 
 [**MICCAI 2023 workshop**] Concept Bottleneck with Visual Concept Filtering for Explainable Medical Image Classification \
-_Injae Kim, Jongha Kim, Joonmyung Choi, Hyunwoo J. Kim_ \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_22)] 
+_Injae Kim, Jongha Kim, Joonmyung Choi, Hyunwoo J. Kim_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_22)] 
 
 [**arXiv 2023**] Decoding Radiologists Intense Focus for Accurate CXR Diagnoses: A Controllable and Interpretable AI System \
-_Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le_ \[[paper](https://arxiv.org/pdf/2309.13550.pdf)] 
+_Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le_ \
+[[paper](https://arxiv.org/pdf/2309.13550.pdf)] 
 
 [**arXiv 2023**] Domain-Controlled Prompt Learning \
-_Qinglong Cao, Zhengqin Xu, Yuantian Chen, Chao Ma, Xiaokang Yang_ \[[paper](https://arxiv.org/pdf/2310.07730.pdf)] 
+_Qinglong Cao, Zhengqin Xu, Yuantian Chen, Chao Ma, Xiaokang Yang_ \
+[[paper](https://arxiv.org/pdf/2310.07730.pdf)] 
 
 [**arXiv 2023**] ETP: Learning Transferable Ecg Representations Via Ecg-Text Pre-training \
-_Che Liu, Zhongwei Wan, Sibo Cheng, Mi Zhang, Rossella Arcucci \[[paper](https://arxiv.org/pdf/2309.07145.pdf)] 
+_Che Liu, Zhongwei Wan, Sibo Cheng, Mi Zhang, Rossella Arcucci_ \
+[[paper](https://arxiv.org/pdf/2309.07145.pdf)] 
 
 [**Nature BME 2022**] Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning \
-_Ekin Tiu, Ellie Talius, Pujan Patel, Curtis P. Langlotz, Andrew Y. Ng & Pranav Rajpurkar _ \[[paper](https://www.nature.com/articles/s41551-022-00936-9)] \[[code](https://github.com/rajpurkarlab/CheXzero)] 
+_Ekin Tiu, Ellie Talius, Pujan Patel, Curtis P. Langlotz, Andrew Y. Ng & Pranav Rajpurkar_ \
+[[paper](https://www.nature.com/articles/s41551-022-00936-9)] \[[code](https://github.com/rajpurkarlab/CheXzero)] 
 
 [**arXiv 2023**] Exploring Low-Resource Medical Image Classification with Weakly Supervised Prompt Learning \
-_Fudan Zheng, Jindong Cao, Weijiang Yu, Zhiguang Chen, Nong Xiao, Yutong Lu_ \[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578827)] 
+_Fudan Zheng, Jindong Cao, Weijiang Yu, Zhiguang Chen, Nong Xiao, Yutong Lu_ \
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578827)] 
 
 [**arXiv 2023**] Exploring the Transfer Learning Capabilities of CLIP in Domain Generalization for Diabetic Retinopathy \
-_Baliah, Sanoojan ; Maani, Fadillah A. ; Sanjeev, Santosh ; Haris Khan, Muhammad_ \[[paper](https://arxiv.org/pdf/2308.14212.pdf)]  \[[code](https://github.com/Sanoojan/CLIP-DRDG )] 
+_Baliah, Sanoojan ; Maani, Fadillah A. ; Sanjeev, Santosh ; Haris Khan, Muhammad_ \
+[[paper](https://arxiv.org/pdf/2308.14212.pdf)]  \[[code](https://github.com/Sanoojan/CLIP-DRDG )] 
 
 [**arXiv 2023**] Exploring the Versatility of Zero-Shot CLIP for Interstitial Lung Disease Classification (ICLR underview) \
-_Cara Van Uden, Christian Bluethgen, Maayane Attias, Malgorzata Polacin, Haiwei Henry Guo, Neha Simha, Rishi Raj, Curtis Langlotz_ \[[paper](https://arxiv.org/pdf/2306.01111.pdf)] 
+_Cara Van Uden, Christian Bluethgen, Maayane Attias, Malgorzata Polacin, Haiwei Henry Guo, Neha Simha, Rishi Raj, Curtis Langlotz_ \
+[[paper](https://arxiv.org/pdf/2306.01111.pdf)] 
 
 [**arXiv 2023**] Few-shot medical image classification with simple shape and texture text descriptors using vision-language models \
-_Michal Byra, Muhammad Febrian Rachmadi, Henrik Skibbe_ \[[paper](https://arxiv.org/pdf/2308.04005.pdf)] \[[code](https://github.com/BrainImageAnalysis/FSC-CLIP-GPT )] 
+_Michal Byra, Muhammad Febrian Rachmadi, Henrik Skibbe_ \
+[[paper](https://arxiv.org/pdf/2308.04005.pdf)] [[code](https://github.com/BrainImageAnalysis/FSC-CLIP-GPT )] 
 
 [**arXiv 2023**] Fostering transparent medical image AI via an image-text foundation model grounded in medical literature \
-_Chanwoo Kim, Soham U. Gadgil, Alex J. DeGrave, Zhuo Ran Cai, Roxana Daneshjou, Su-In Lee_ \[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312868/)]  \[[code]( https://github.com/suinleelab/MONET)] 
+_Chanwoo Kim, Soham U. Gadgil, Alex J. DeGrave, Zhuo Ran Cai, Roxana Daneshjou, Su-In Lee_ \
+[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312868/)]  \[[code]( https://github.com/suinleelab/MONET)] 
 
 [**MIDL 2023**] Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models \
-_Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz_ \[[paper](https://proceedings.mlr.press/v182/zhang22a.html)]  \[[code](https://github.com/yuhaozhang/convirt)] 
+_Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz_ \
+[[paper](https://proceedings.mlr.press/v182/zhang22a.html)]  \[[code](https://github.com/yuhaozhang/convirt)] 
 
 [**ACL 2022**] Language over Labels: Contrastive Language Supervision Exceeds Purely Label-Supervised Classification Performance on Chest X-Rays \
-_Anton Wiehe, Florian Schneider, Sebastian Blank, Xintong Wang, Hans-Peter Zorn, Christian Biemann_ \[[paper](https://aclanthology.org/2022.aacl-srw.11.pdf)] \[[code](https://github.com/NotNANtoN/master_thesis)]
+_Anton Wiehe, Florian Schneider, Sebastian Blank, Xintong Wang, Hans-Peter Zorn, Christian Biemann_ \
+[[paper](https://aclanthology.org/2022.aacl-srw.11.pdf)] \[[code](https://github.com/NotNANtoN/master_thesis)]
 
 [**MIDL 2023**] MEDIMP: 3D Medical Images with clinical Prompts from limited tabular data for renal transplantation \
-_Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, Marc-Olivier Timsit, Maria Vakalopoulou_ \[[paper](https://centralesupelec.hal.science/hal-04040697v2/document)] \[[code](https://github.com/leomlck/MEDIMP
+_Leo Milecki, Vicky Kalogeiton, Sylvain Bodard, Dany Anglicheau, Jean-Michel Correas, Marc-Olivier Timsit, Maria Vakalopoulou_ \
+[[paper](https://centralesupelec.hal.science/hal-04040697v2/document)] \[[code](https://github.com/leomlck/MEDIMP
 )]
 
 [**MIDL 2023**] Radiology Reports Improve Visual Representations Learned from Radiographs \
-_Haoxu Huang, Samyak Rawlekar, Sumit Chopra, Cem M Deniz_ \[[paper](https://openreview.net/pdf?id=S9EfOVFJIxQh)] \[[code](https://github.com/denizlab/MIMICCXR-MultiModal-SelfSupervision
+_Haoxu Huang, Samyak Rawlekar, Sumit Chopra, Cem M Deniz_ \
+[[paper](https://openreview.net/pdf?id=S9EfOVFJIxQh)] \[[code](https://github.com/denizlab/MIMICCXR-MultiModal-SelfSupervision
 )]
 
 [**arXiv 2023**] Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models \
-_An Yan, Yu Wang, Petros Karypis, Zexue He, Chengyu Dong, Zihan Wang, Yiwu Zhong, Jingbo Shang, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley_ \[[paper](https://arxiv.org/pdf/2310.03182.pdf)] \[[code](https://github.com/denizlab/MIMICCXR-MultiModal-SelfSupervision
+_An Yan, Yu Wang, Petros Karypis, Zexue He, Chengyu Dong, Zihan Wang, Yiwu Zhong, Jingbo Shang, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley_ \
+[[paper](https://arxiv.org/pdf/2310.03182.pdf)] \[[code](https://github.com/denizlab/MIMICCXR-MultiModal-SelfSupervision
 )]
 
 [**arXiv 2022**] Towards Reliable Zero Shot Classification in Self-Supervised Models with Conformal Prediction \
-_Bhawesh Kumar, Anil Palepu, Rudraksh Tuwani, Andrew Beam_ \[[paper](https://arxiv.org/pdf/2210.15805.pdf)] 
+_Bhawesh Kumar, Anil Palepu, Rudraksh Tuwani, Andrew Beam_ \
+[[paper](https://arxiv.org/pdf/2210.15805.pdf)] 
 
 [**IEEE-Asia 2022**] Transfer Learning for Medical Image Classification on Multiple Datasets using PubMedCLIP \
-_Hong N. Dao, Tuyen Nguyen Quang, Incheon Paik_ \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954669)] 
+_Hong N. Dao, Tuyen Nguyen Quang, Incheon Paik_ \
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954669)] 
 
 [**MICCAI 2023**] Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis \
-_Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab_ \[[paper](https://arxiv.org/pdf/2303.13391.pdf)] \[[code](https://github.com/ChantalMP/Xplainer
+_Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab_ \
+[[paper](https://arxiv.org/pdf/2303.13391.pdf)] \[[code](https://github.com/ChantalMP/Xplainer
 )]
 
 
@@ -205,27 +227,34 @@ _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 #### Cross-Modal Task
 
 [**IPMI 2023**] X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation \
-_Tom van Sonsbeek, Marcel Worring_ \[[paper](https://arxiv.org/pdf/2302.11352.pdf)] 
+_Tom van Sonsbeek, Marcel Worring_ \
+[[paper](https://arxiv.org/pdf/2302.11352.pdf)] 
 
 [**MICCAI 2023**] Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models \
-_Tom van Sonsbeek, Mohammad Mahdi Derakhshani, Ivona Najdenkoska, Cees G. M. Snoek, and Marcel Worring_ \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_70)] \[[code](github.com/tjvsonsbeek/open-ended-medical-vqa)]
+_Tom van Sonsbeek, Mohammad Mahdi Derakhshani, Ivona Najdenkoska, Cees G. M. Snoek, and Marcel Worring_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_70)] \[[code](github.com/tjvsonsbeek/open-ended-medical-vqa)]
 
 
 [**IEEE Transactions on Emerging Topics in Computational Intelligence**] Parameter-Efficient Transfer Learning for Medical Visual Question Answering \
-_Jiaxiang Liu , Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao , Junhui Lv, and Zuozhu Liu_ \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10256025)] 
+_Jiaxiang Liu , Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao , Junhui Lv, and Zuozhu Liu_ \
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10256025)] 
 
 
 [**arXiv 2023**] PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering \
-_Xiaoman Zhang, Chaoyi Wu, Ziheng Zhao, Weixiong Lin, Ya Zhang, Yanfeng Wang, Weidi Xie_ \[[paper](https://arxiv.org/pdf/2305.10415.pdf)]  \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
+_Xiaoman Zhang, Chaoyi Wu, Ziheng Zhao, Weixiong Lin, Ya Zhang, Yanfeng Wang, Weidi Xie_ \
+[[paper](https://arxiv.org/pdf/2305.10415.pdf)]  \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
 
 
 [**ACL 2023**] PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain? \
-_Sedigheh Eslami, Gerard de Melo, Christoph Meinel_ \[[paper](https://arxiv.org/pdf/2305.10415.pdf)]  \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
+_Sedigheh Eslami, Gerard de Melo, Christoph Meinel_ \
+[[paper](https://arxiv.org/pdf/2305.10415.pdf)]  \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
 
 [**MICCAI 2023**] A Medical Semantic-Assisted Transformer for Radiographic Report Generation \
-_Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou_ \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)]
+_Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_63)]
 
 [**MIDL 2023**] FlexR: Few-shot Classification with Language Embeddings for Structured Reporting of Chest X-rays \
-_Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab_ \[[paper](https://arxiv.org/pdf/2203.15723.pdf)]
+_Matthias Keicher, Kamilia Zaripova, Tobias Czempiel, Kristina Mach, Ashkan Khakzar, Nassir Navab_ \
+[[paper](https://arxiv.org/pdf/2203.15723.pdf)]
 
 
