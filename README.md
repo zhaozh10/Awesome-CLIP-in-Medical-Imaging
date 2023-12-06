@@ -90,6 +90,19 @@ _Hongyang Lei, Huazhen Huang, Bokai Yang, Guosheng Cui, Ruxin Wang, Dan Wu , and
 _Shruthi Bannur,∗ Stephanie Hyland∗, Qianchu Liu, Fernando P ́ erez-Garc ́ıa, Maximilian Ilse, Daniel C. Castro, Benedikt Boecking, Harshita Sharma, Kenza Bouzid, Anja Thieme, Anton Schwaighofer, Maria Wetscherek, Matthew P. Lungren, Aditya Nori Javier Alvarez-Valle, Ozan Oktay_ \
 [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.html)] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
 
+[**TMI 2023**] Improving Medical Vision-Language Contrastive
+Pretraining with Semantics-aware Triage \
+_Bo Liu, Donghuan Lu, Dong Wei, Xian Wu, Yan Wang, Yu Zhang, Yefeng Zheng_ \
+[[paper](https://ieeexplore.ieee.org/document/10182304)]
+
+[**arXiv 2023**] Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt \
+_Yuhao Wang_ \
+[[paper](https://arxiv.org/abs/2307.05920)]
+
+[**arXiv 2023**] Significantly Improving Zero-Shot X-ray Pathology Classification via Fine-tuning Pre-trained Image-Text Encoders \
+_Jongseong Jang∗, Daeun Kyung∗, Seung Hwan Kim, Honglak Lee, Kyunghoon Bae, Edward Choi_ \
+[[paper](https://arxiv.org/abs/2212.07050)]
+
 #### Knowledge-enhanced
 
 [**ACM MM 2022**] Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge \
@@ -107,6 +120,10 @@ _Xiaoman Zhang, Chaoyi Wu, Ya Zhang, WeidiXie & Yanfeng Wang_ \
 [**MICCAI 2023**] Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training \
 _Xiaofei Chen, Yuting He, Cheng Xue, Rongjun Ge, Shuo Li, Guanyu Yang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_39)] [[code](https://github.com/ChenXiaoFei-CS/KoBo)]
+
+[**npj digital medicine 2023**] A medical multimodal large language model for future pandemics \
+_Fenglin Liu, Tingting Zhu, Xian Wu, Bang Yang, Chenyu You, Chenyang Wang, Yefeng Zheng, Xu Sun, Yang Yang, Lei Clifton, David A. Clifton_ \
+[[paper](https://www.nature.com/articles/s41746-023-00952-2)]
 
 [**arXiv 2023**] Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining \
 _Bingqian Lin, Zicong Chen, Mingjie Li, Haokun Lin, Hang Xu, Yi Zhu, Jianzhuang Liu, Wenjia Cai, Lei Yang, Shen Zhao, Chenfei Wu, Ling Chen, Xiaojun Chang, Yi Yang, Lei Xing, Xiaodan Liang_ \
@@ -194,7 +211,6 @@ _Masaki Aono, Hiroki Shinoda, Tetsuya Asakawa, Kazuki Shimizu, Takuya Togawa, Ta
 [**arXiv 2023**] Increasing Textual Context Size Boosts Medical Image-Text Matching \
 _Idan Glassberg, Tom Hope_ \
 [[paper](https://arxiv.org/pdf/2303.13340.pdf)] [[code](https://github.cs.huji.ac.il/tomhope-lab/ClipMD)]
-
 
 [**MIDL 2023**] Improving Zero-Shot Detection of Low Prevalence Chest Pathologies using Domain Pre-trained Language Models \
 _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz_ \
