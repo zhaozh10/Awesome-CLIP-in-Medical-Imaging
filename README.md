@@ -68,6 +68,30 @@ _Yimu Pan, Alison D. Gernand, Jeﬀery A. Goldstein, Leena Mithal, Delia Mwinyel
 _Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu_ \
 [[paper](https://openreview.net/forum?id=w-x7U26GM7j)] [[code](https://github.com/RL4M/MRM-pytorch)]
 
+[**ICCV 2023**] LIMITR: Leveraging Local Information for Medical Image-Text Representation \
+_Gefen Dawidowicz, Elad Hirsch, Ayellet Tal_ \
+[[paper](https://arxiv.org/abs/2303.11755)]
+
+[**ICCV 2023**] PRIOR: Prototype Representation Joint Learning from Medical Images and Reports \
+_Pujin Cheng, Li Lin, Junyan Lyu, Yijin Huang, Wenhan Luo, Xiaoying Tang_ \
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Cheng_PRIOR_Prototype_Representation_Joint_Learning_from_Medical_Images_and_Reports_ICCV_2023_paper.html)] [[code](https://github.com/QtacierP/PRIOR)]
+
+[**MICCAI 2023**] Contrastive Masked Image-Text Modeling for Medical Visual Representation Learning \
+_Cheng Chen, Aoxiao Zhong, Dufan Wu, Jie Luo, Quanzheng Li_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_48)] [[code](https://github.com/cchen-cc/CMITM)]
+
+[**MICCAI 2023**] Enhancing Automatic Placenta Analysis through Distributional Feature Recomposition in Vision-Language Contrastive Learning \
+Yimu Pan, Tongan Cai, Manas Mehta, Alison D. Gernand, Jeﬀery A. Goldstein, Leena Mithal, Delia Mwinyelle, Kelly Gallagher, James Z. Wang \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_12)]
+
+[**MLHC 2023**] TIER: Text-Image Entropy Regularization for Medical CLIP-style models \
+_Anil Palepu, Andrew Beam_ \
+[[paper](https://arxiv.org/abs/2212.06710)] [[code](https://github.com/apalepu13/TIER_Regularized_CLIP)]
+
+[**TMM 2023**] Multi-task Paired Masking with Alignment Modeling for Medical Vision-Language Pre-training \
+_Ke Zhang, Yan Yang, Jun Yu, Hanliang Jiang, Jianping Fan, Qingming Huang, Weidong Han_ \
+[[paper](https://ieeexplore.ieee.org/abstract/document/10288259)]
+
 [**arXiv 2023**] Local Contrastive Learning for Medical Image Recognition \
 _Syed A. Rizvi, Ruixiang Tang, Xiaoqian Jiang, Xiaotian Ma, Xia Hu_ \
 [[paper](https://arxiv.org/abs/2303.14153)]
