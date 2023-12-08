@@ -114,10 +114,22 @@ _Hongyang Lei, Huazhen Huang, Bokai Yang, Guosheng Cui, Ruxin Wang, Dan Wu , and
 _Shruthi Bannur,∗ Stephanie Hyland∗, Qianchu Liu, Fernando P ́ erez-Garc ́ıa, Maximilian Ilse, Daniel C. Castro, Benedikt Boecking, Harshita Sharma, Kenza Bouzid, Anja Thieme, Anton Schwaighofer, Maria Wetscherek, Matthew P. Lungren, Aditya Nori Javier Alvarez-Valle, Ozan Oktay_ \
 [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Bannur_Learning_To_Exploit_Temporal_Structure_for_Biomedical_Vision-Language_Processing_CVPR_2023_paper.html)] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
 
+[**MICCAI 2023**] CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training \
+_Kihyun You, Jawook Gu, Jiyeon Ham, Beomhee Park, Jiho Kim, Eun K. Hong, Woonhyuk Baek, Byungseok Roh_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_10)] [[code](https://github.com/kakaobrain/cxr-clip)]
+
 [**TMI 2023**] Improving Medical Vision-Language Contrastive
 Pretraining with Semantics-aware Triage \
 _Bo Liu, Donghuan Lu, Dong Wei, Xian Wu, Yan Wang, Yu Zhang, Yefeng Zheng_ \
 [[paper](https://ieeexplore.ieee.org/document/10182304)]
+
+[**QIMS 2023**] SDA-CLIP: surgical visual domain adaptation using video and text labels \
+_Yuchong Li, Shuangfu Jia, Guangbi Song, Ping Wang, Fucang Jia_ \
+[[paper](https://qims.amegroups.org/article/view/117648/html)]
+
+[**arXiv 2023**] UniBrain: Universal Brain MRI Diagnosis with Hierarchical Knowledge-enhanced Pre-training \
+_Jiayu Lei, Lisong Dai, Haoyun Jiang, Chaoyi Wu, Xiaoman Zhang, Yao Zhang, Jiangchao Yao, Weidi Xie, Yanyong Zhang, Yuehua Li, Ya Zhang, Yanfeng Wang_ \
+[[paper](https://arxiv.org/abs/2309.06828)] [[code](https://github.com/ljy19970415/UniBrain)]
 
 [**arXiv 2023**] Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt \
 _Yuhao Wang_ \
@@ -126,6 +138,10 @@ _Yuhao Wang_ \
 [**arXiv 2023**] Significantly Improving Zero-Shot X-ray Pathology Classification via Fine-tuning Pre-trained Image-Text Encoders \
 _Jongseong Jang∗, Daeun Kyung∗, Seung Hwan Kim, Honglak Lee, Kyunghoon Bae, Edward Choi_ \
 [[paper](https://arxiv.org/abs/2212.07050)]
+
+[**arXiv 2023**] IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training \
+_Che Liu, Sibo Cheng, Miaojing Shi, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
+[[paper](https://arxiv.org/abs/2310.07355)]
 
 #### Knowledge-enhanced
 
@@ -164,7 +180,8 @@ _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Lang
 [[paper](https://proceedings.mlr.press/v182/zhang22a.html)] [[code](https://github.com/edreisMD/ConVIRT-pytorch)]
 
 [**NMI 2022**] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports\
-_Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu_\
+_Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu_ \
+[[paper](https://www.nature.com/articles/s42256-021-00425-9)] [[code](https://github.com/funnyzhou/REFERS)]
 
 ---
 
