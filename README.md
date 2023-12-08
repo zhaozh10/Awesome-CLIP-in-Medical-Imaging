@@ -285,6 +285,10 @@ _Hong N. Dao, Tuyen Nguyen Quang, Incheon Paik_ \
 _Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Braren, Nassir Navab_ \
 [[paper](https://arxiv.org/pdf/2303.13391.pdf)] \[[code](https://github.com/ChantalMP/Xplainer)]
 
+[**ISBI 2023**] Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models \
+_Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
+[[paper](https://arxiv.org/abs/2311.14339)]
+
 #### Dense Prediction Task
 
 [**MICCAI 2022**] Radiological Reports Improve Pre-training for Localized Imaging Tasks on Chest X-Rays\
