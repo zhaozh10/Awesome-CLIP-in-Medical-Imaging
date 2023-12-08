@@ -277,7 +277,7 @@ _An Yan, Yu Wang, Petros Karypis, Zexue He, Chengyu Dong, Zihan Wang, Yiwu Zhong
 _Bhawesh Kumar, Anil Palepu, Rudraksh Tuwani, Andrew Beam_ \
 [[paper](https://arxiv.org/pdf/2210.15805.pdf)]
 
-[**IEEE-Asia 2022**] Transfer Learning for Medical Image Classification on Multiple Datasets using PubMedCLIP \
+[**ICCE-Asia 2022**] Transfer Learning for Medical Image Classification on Multiple Datasets using PubMedCLIP \
 _Hong N. Dao, Tuyen Nguyen Quang, Incheon Paik_ \
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954669)]
 
@@ -341,7 +341,7 @@ _Tom van Sonsbeek, Marcel Worring_ \
 _Tom van Sonsbeek, Mohammad Mahdi Derakhshani, Ivona Najdenkoska, Cees G. M. Snoek, and Marcel Worring_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_70)] \[[code](github.com/tjvsonsbeek/open-ended-medical-vqa)]
 
-[**IEEE Transactions on Emerging Topics in Computational Intelligence**] Parameter-Efficient Transfer Learning for Medical Visual Question Answering \
+[**TETCI 2023**] Parameter-Efficient Transfer Learning for Medical Visual Question Answering \
 _Jiaxiang Liu , Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao , Junhui Lv, and Zuozhu Liu_ \
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10256025)]
 
