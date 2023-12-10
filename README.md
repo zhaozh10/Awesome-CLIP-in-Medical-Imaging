@@ -88,9 +88,17 @@ Yimu Pan, Tongan Cai, Manas Mehta, Alison D. Gernand, Jeﬀery A. Goldstein, Lee
 _Anil Palepu, Andrew Beam_ \
 [[paper](https://arxiv.org/abs/2212.06710)] [[code](https://github.com/apalepu13/TIER_Regularized_CLIP)]
 
+[**MedIA 2023**] Self-supervised multi-modal training from uncurated images and reports enables monitoring AI in radiology \
+_Sangjoon Park, Eun Sun Lee, Kyung Sook Shin, Jeong Eun Lee, Jong Chul Ye_ \
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002815)]
+
 [**TMM 2023**] Multi-task Paired Masking with Alignment Modeling for Medical Vision-Language Pre-training \
 _Ke Zhang, Yan Yang, Jun Yu, Hanliang Jiang, Jianping Fan, Qingming Huang, Weidong Han_ \
 [[paper](https://ieeexplore.ieee.org/abstract/document/10288259)]
+
+[**ESA 2023**] MITER: Medical Image–TExt joint adaptive pretRaining with multi-level contrastive learning \
+_Chang Shu, Yi Zhu, Xiaochu Tang, Jing Xiao, Youxin Chen, Xiu Li, Qian Zhang, Zheng Lu_ \
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417423020286)] [[code](https://github.com/ZhuYi98/MITER)]
 
 [**arXiv 2023**] Local Contrastive Learning for Medical Image Recognition \
 _Syed A. Rizvi, Ruixiang Tang, Xiaoqian Jiang, Xiaotian Ma, Xia Hu_ \
