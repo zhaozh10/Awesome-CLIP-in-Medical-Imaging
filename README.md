@@ -324,7 +324,20 @@ _Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Brar
 
 [**arXiv 2023**] Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models \
 _Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
-[[paper](https://arxiv.org/abs/2311.14339)]
+[[paper](https://arxiv.org/abs/2311.14339)] [[code](https://github.com/cristianopatricio/concept-based-interpretability-vlm)]
+
+[**ISBI 2023**] Joint representation learning from french radiological
+reports and ultrasound images \
+_Hind Dadoun, Hervé Delingette, Anne-Laure Rousseau, Eric de Kerviler, Nicholas Ayache_ \
+[[paper](https://ieeexplore.ieee.org/document/10230642)]
+
+[**ISBI 2023**] Self-Supervised Learning with Radiology Reports, A Comparative Analysis of Strategies for Large Vessel Occlusion and Brain CTA Images \
+_S Pachade, S Datta, Y Dong, S Salazar-Marioni, R Abdelkhaleq, A Niktabe, K Roberts, SA Sheth, L Giancardo_ \
+[[paper](https://ieeexplore.ieee.org/abstract/document/10230623)]
+
+[**ISBI 2023**] Multimodal Representation Learning for Blastocyst Assessment \
+_Youcheng Wang, Zhe Zheng, Na Ni, Guoqing Tong, Nuo Cheng, Kai Li, Ping Yin, Yuanyuan Chen, Yingna Wu, Guangping Xie_ \
+[[paper](https://ieeexplore.ieee.org/abstract/document/10230468)]
 
 #### Dense Prediction Task
 
