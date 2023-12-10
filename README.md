@@ -166,13 +166,13 @@ _Zhihong Chen, Guanbin Li, Xiang Wan_ \
 _Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie_ \
 [[paper](https://arxiv.org/abs/2301.02228)] [[code](https://github.com/MediaBrain-SJTU/MedKLIP)]
 
-[**Nature Communication 2023**] Knowledge-enhanced visual-language pre-training on chest radiology images \
-_Xiaoman Zhang, Chaoyi Wu, Ya Zhang, WeidiXie & Yanfeng Wang_ \
-[[paper](https://www.nature.com/articles/s41467-023-40260-7)] [[code](https://github.com/xiaoman-zhang/KAD)]
-
 [**MICCAI 2023**] Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training \
 _Xiaofei Chen, Yuting He, Cheng Xue, Rongjun Ge, Shuo Li, Guanyu Yang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_39)] [[code](https://github.com/ChenXiaoFei-CS/KoBo)]
+
+[**Nature Communication 2023**] Knowledge-enhanced visual-language pre-training on chest radiology images \
+_Xiaoman Zhang, Chaoyi Wu, Ya Zhang, WeidiXie & Yanfeng Wang_ \
+[[paper](https://www.nature.com/articles/s41467-023-40260-7)] [[code](https://github.com/xiaoman-zhang/KAD)]
 
 [**npj digital medicine 2023**] A medical multimodal large language model for future pandemics \
 _Fenglin Liu, Tingting Zhu, Xian Wu, Bang Yang, Chenyu You, Chenyang Wang, Yefeng Zheng, Xu Sun, Yang Yang, Lei Clifton, David A. Clifton_ \
