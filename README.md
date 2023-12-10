@@ -104,6 +104,11 @@ _Chang Shu, Yi Zhu, Xiaochu Tang, Jing Xiao, Youxin Chen, Xiu Li, Qian Zhang, Zh
 _Syed A. Rizvi, Ruixiang Tang, Xiaoqian Jiang, Xiaotian Ma, Xia Hu_ \
 [[paper](https://arxiv.org/abs/2303.14153)]
 
+[**arXiv 2023**] G2D: From Global to Dense Radiography Representation Learning via
+Vision-Language Pre-training \
+_Che Liu, Cheng Ouyang, Sibo Cheng, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
+[[paper](https://arxiv.org/abs/2312.01522)]
+
 #### Data-efficient
 
 [**EMNLP 2022**] MedCLIP: Contrastive Learning from Unpaired Medical Images and Text \
@@ -190,6 +195,22 @@ _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Lang
 [**NMI 2022**] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports\
 _Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu_ \
 [[paper](https://www.nature.com/articles/s42256-021-00425-9)] [[code](https://github.com/funnyzhou/REFERS)]
+
+[**MICCAI 2023**] M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization \
+_Che Liu, Sibo Cheng, Chen Chen, Mengyun Qiao, Weitong Zhang, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_61)] [[code](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)]
+
+[**ICCV 2023**] Towards Unifying Medical Vision-and-Language Pre-Training via Soft Prompts \
+_Zhihong Chen, Benyou Wang, Shizhe Diao, Guanbin Li, Xiang Wan_ \
+[[paper](https://arxiv.org/abs/2302.08958)] [[code](https://github.com/zhjohnchan/ptunifier)]
+
+[**NeurIPS 2023**] Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias \
+_Zhongwei Wan, Che Liu, Mi Zhang, Jie Fu, Benyou Wang, Sibo Cheng, Lei Ma, César Quilodrán-Casas, Rossella Arcucci_ \
+[[paper](https://arxiv.org/abs/2305.19894)] [[code](https://github.com/sustechbruce/med-unic)]
+
+[**MICCAI 2023**] Pathology-and-genomics Multimodal Transformer for Survival Outcome Prediction \
+_Kexin Ding, Mu Zhou, Dimitris N. Metaxas, Shaoting Zhang_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_60)] [[code](https://github.com/Cassie07/PathOmics)]
 
 ---
 
