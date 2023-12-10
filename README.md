@@ -196,21 +196,29 @@ _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Lang
 _Hong-Yu Zhou, Xiaoyu Chen, Yinghao Zhang, Ruibang Luo, Liansheng Wang, Yizhou Yu_ \
 [[paper](https://www.nature.com/articles/s42256-021-00425-9)] [[code](https://github.com/funnyzhou/REFERS)]
 
-[**MICCAI 2023**] M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization \
-_Che Liu, Sibo Cheng, Chen Chen, Mengyun Qiao, Weitong Zhang, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
-[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_61)] [[code](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)]
-
 [**ICCV 2023**] Towards Unifying Medical Vision-and-Language Pre-Training via Soft Prompts \
 _Zhihong Chen, Benyou Wang, Shizhe Diao, Guanbin Li, Xiang Wan_ \
 [[paper](https://arxiv.org/abs/2302.08958)] [[code](https://github.com/zhjohnchan/ptunifier)]
+
+[**ICCV 2023**] Cross-Modal Translation and Alignment for Survival Analysis \
+_Fengtao Zhou, Hao Chen_ \
+[[paper](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9ibPDn4SDAxUP_WEKHWVZB6kQFnoECA0QAw&url=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2023%2Fpapers%2FZhou_Cross-Modal_Translation_and_Alignment_for_Survival_Analysis_ICCV_2023_paper.pdf&usg=AOvVaw0M39tXtqEkk3BQUCKASxwn&opi=89978449)] [[code](https://github.com/ft-zhou-zzz/cmta)]
 
 [**NeurIPS 2023**] Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias \
 _Zhongwei Wan, Che Liu, Mi Zhang, Jie Fu, Benyou Wang, Sibo Cheng, Lei Ma, César Quilodrán-Casas, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2305.19894)] [[code](https://github.com/sustechbruce/med-unic)]
 
+[**MICCAI 2023**] M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization \
+_Che Liu, Sibo Cheng, Chen Chen, Mengyun Qiao, Weitong Zhang, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_61)] [[code](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)]
+
 [**MICCAI 2023**] Pathology-and-genomics Multimodal Transformer for Survival Outcome Prediction \
 _Kexin Ding, Mu Zhou, Dimitris N. Metaxas, Shaoting Zhang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_60)] [[code](https://github.com/Cassie07/PathOmics)]
+
+[**MICCAI 2023**] Surgical Video Captioning with Mutual-Modal Concept Alignment \
+_Zhen Chen, Qingyu Guo, Leo K. T. Yeung, Danny T. M. Chan, Zhen Lei, Hongbin Liu & Jinqiao Wang_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_3)] [[code](https://github.com/franciszchen/SCA-Net)]
 
 ---
 
