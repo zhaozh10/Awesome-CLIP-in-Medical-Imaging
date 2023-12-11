@@ -24,13 +24,27 @@
 
 - **First release:** December 21, 2023
 
-## Papers
+---
+
+## Dataset resource
+
+|                                       dataset                                        |  domain   | image | text |             source              | language | pre-trained CLIP |
+| :----------------------------------------------------------------------------------: | :-------: | :---: | :--: | :-----------------------------: | :------: | :--------------: |
+|                   [ROCO](https://github.com/razorx89/roco-dataset)                   | multiple  |  87K  | 87K  |         research papers         |    En    |    PubMedCLIP    |
+|                    [MedICaT](https://github.com/allenai/medicat)                     | multiple  | 217K  | 217K |         research papers         |    En    |        /         |
+|               [PMC-OA](https://huggingface.co/datasets/axiong/pmc_oa)                | multiple  | 1.6M  | 1.6M |         research papers         |    En    |     PMCCLIP      |
+|          [ChiMed-VL](https://huggingface.co/datasets/williamliu/ChiMed-VL)           | multiple  | 580K  | 580K |         research papers         |  En/zh   |        /         |
+|                     [FFA-IR](https://github.com/mlii0117/FFA-IR)                     |  fundus   |  1M   | 10K  |         medical reports         |  En/zh   |        /         |
+|              [PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/)              |    cxr    | 160K  | 109K |         medical reports         |    Sp    |        /         |
+|             [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/)              |    cxr    | 377K  | 227K |         medical reports         |    En    | BioViL/BioViL-T  |
+| [OpenPath](https://drive.google.com/drive/folders/1b5UT8BzUphkHZavRG-fmiyY9JWYIWZER) | histology | 208K  | 208K |          social media           |    En    |       PLIP       |
+|                        [Quilt-1M](https://quilt1m.github.io/)                        | histology |  1M   |  1M  | research papers<br>social media |    En    |     QuiltNet     |
 
 ---
 
-### Pre-training
+## Pre-training
 
-#### Fine-grained contrast
+### Fine-grained contrast
 
 [**MICCAI 2020**] Joint Modeling of Chest Radiographs and Radiology Reports for Pulmonary Edema Assessment \
 _Geeticka Chauhan, Ruizhi Liao, William Wells, Jacob Andreas, Xin Wang, Seth Berkowitz, Steven Horng, Peter Szolovits, Polina Golland_\
@@ -109,7 +123,9 @@ Vision-Language Pre-training \
 _Che Liu, Cheng Ouyang, Sibo Cheng, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2312.01522)]
 
-#### Data-efficient
+---
+
+### Data-efficient
 
 [**EMNLP 2022**] MedCLIP: Contrastive Learning from Unpaired Medical Images and Text \
 _Zifeng Wang, Zhenbang Wu, Dinesh Agarwal, Jimeng Sun_ \
@@ -156,7 +172,9 @@ _Jongseong Jang∗, Daeun Kyung∗, Seung Hwan Kim, Honglak Lee, Kyunghoon Bae, 
 _Che Liu, Sibo Cheng, Miaojing Shi, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2310.07355)]
 
-#### Knowledge-enhanced
+---
+
+### Knowledge-enhanced
 
 [**ACM MM 2022**] Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge \
 _Zhihong Chen, Guanbin Li, Xiang Wan_ \
@@ -186,7 +204,9 @@ _Bingqian Lin, Zicong Chen, Mingjie Li, Haokun Lin, Hang Xu, Yi Zhu, Jianzhuang 
 _Julio Silva-Rodriguez, Hadi Chakor, Riadh Kobbi, Jose Dolz, Ismail Ben Ayed_ \
 [[paper](https://arxiv.org/abs/2308.07898)] [[code](https://github.com/jusiro/FLAIR)]
 
-#### Others
+---
+
+### Others
 
 [**MLHC 2022**] Contrastive Learning of Medical Visual Representations from Paired Images and Text \
 _Yuhao Zhang, Hang Jiang, Yasuhide Miura, Christopher D. Manning, Curtis P. Langlotz_ \
@@ -220,11 +240,15 @@ _Kexin Ding, Mu Zhou, Dimitris N. Metaxas, Shaoting Zhang_ \
 _Zhen Chen, Qingyu Guo, Leo K. T. Yeung, Danny T. M. Chan, Zhen Lei, Hongbin Liu & Jinqiao Wang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_3)] [[code](https://github.com/franciszchen/SCA-Net)]
 
+[**arXiv 2023**] Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images \
+_Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
+[[paper](https://arxiv.org/abs/2310.07027)]
+
 ---
 
-### CLIP-driven Application
+## CLIP-driven Application
 
-#### Classification Task
+### Classification Task
 
 [**arXiv 2023**] A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis \
 _Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Xiaotang Gai, Yang Feng, Zuozhu Liu_ \
@@ -339,7 +363,9 @@ _S Pachade, S Datta, Y Dong, S Salazar-Marioni, R Abdelkhaleq, A Niktabe, K Robe
 _Youcheng Wang, Zhe Zheng, Na Ni, Guoqing Tong, Nuo Cheng, Kai Li, Ping Yin, Yuanyuan Chen, Yingna Wu, Guangping Xie_ \
 [[paper](https://ieeexplore.ieee.org/abstract/document/10230468)]
 
-#### Dense Prediction Task
+---
+
+### Dense Prediction Task
 
 [**MICCAI 2022**] Radiological Reports Improve Pre-training for Localized Imaging Tasks on Chest X-Rays\
 _Philip Müller, Georgios Kaissis, Congyu Zou, Daniel Rueckert_\
@@ -385,7 +411,9 @@ _Deepa Anand, Gurunath Reddy M, Vanika Singhal, Dattesh D. Shanbhag, Shriram KS,
 _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 [[paper](https://arxiv.org/pdf/2310.18961.pdf)] [[code](https://github.com/zqhang/AnomalyCLIP)]
 
-#### Cross-Modal Task
+---
+
+### Cross-Modal Task
 
 [**IPMI 2023**] X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation \
 _Tom van Sonsbeek, Marcel Worring_ \
