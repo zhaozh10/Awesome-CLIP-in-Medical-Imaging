@@ -20,18 +20,18 @@
 }
 ``` -->
 
-## Table of Contents
+## Overview
 1. [Updates](#updates)
-2. [Dataset resource](#dataset-resource)
+2. [Dataset Resource](#dataset-resource)
 3. [Pre-training](#pre-training)
-    - [Fine-grained contrast](#fine-grained-contrast)
+    - [Fine-grained Contrast](#fine-grained-contrast)
     - [Data-efficient](#data-efficient)
     - [Knowledge-enhanced](#knowledge-enhanced)
     - [Others](#others)
 4. [CLIP-driven Application](#clip-driven-application)
     - [Classification Task](#classification-task)
     - [Dense Prediction Task](#dense-prediction-task)
-    - [Cross-Modal Task](#cross-modal-task)
+    - [Cross-modal Task](#cross-modal-task)
 
 
 ## Updates
@@ -40,7 +40,7 @@
 
 ---
 
-## Dataset resource
+## Dataset Resource
 
 |                                       dataset                                        |  domain   | image | text |             source              | language | pre-trained CLIP |
 | :----------------------------------------------------------------------------------: | :-------: | :---: | :--: | :-----------------------------: | :------: | :--------------: |
@@ -58,7 +58,7 @@
 
 ## Pre-training
 
-### Fine-grained contrast
+### Fine-grained Contrast
 
 [**MICCAI 2020**] Joint Modeling of Chest Radiographs and Radiology Reports for Pulmonary Edema Assessment \
 _Geeticka Chauhan, Ruizhi Liao, William Wells, Jacob Andreas, Xin Wang, Seth Berkowitz, Steven Horng, Peter Szolovits, Polina Golland_\
@@ -427,7 +427,7 @@ _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 
 ---
 
-### Cross-Modal Task
+### Cross-modal Task
 
 [**IPMI 2023**] X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation \
 _Tom van Sonsbeek, Marcel Worring_ \
