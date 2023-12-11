@@ -20,6 +20,20 @@
 }
 ``` -->
 
+## Table of Contents
+1. [Updates](#updates)
+2. [Dataset resource](#dataset-resource)
+3. [Pre-training](#pre-training)
+    - [Fine-grained contrast](#fine-grained-contrast)
+    - [Data-efficient](#data-efficient)
+    - [Knowledge-enhanced](#knowledge-enhanced)
+    - [Others](#others)
+4. [CLIP-driven Application](#clip-driven-application)
+    - [Classification Task](#classification-task)
+    - [Dense Prediction Task](#dense-prediction-task)
+    - [Cross-Modal Task](#cross-modal-task)
+
+
 ## Updates
 
 - **First release:** December 21, 2023
