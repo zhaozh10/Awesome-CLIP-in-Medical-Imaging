@@ -5,7 +5,8 @@
 
 :fire::fire: This is a collection of awesome articles about CLIP in medical imaging:fire::fire:
 
-- Our survey paper on arXiv: [CLIP in medical imaging: A comprehensive survey](https://arxiv.org/abs/2211.07804) :heart:
+<!--
+- Our survey paper on arXiv: [CLIP in medical imaging: A comprehensive survey](https://arxiv.org/abs/2211.07804) :heart: -->
 
 <!-- #### Citation -->
 
@@ -22,7 +23,7 @@
 
 ## Updates
 
-- **First release:** December 21, 2023
+- **First release:** December 12, 2023
 
 ---
 
