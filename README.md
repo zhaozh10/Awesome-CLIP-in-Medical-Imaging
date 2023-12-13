@@ -118,6 +118,10 @@ Yimu Pan, Tongan Cai, Manas Mehta, Alison D. Gernand, Jeﬀery A. Goldstein, Lee
 _Anil Palepu, Andrew Beam_ \
 [[paper](https://arxiv.org/abs/2212.06710)] [[code](https://github.com/apalepu13/TIER_Regularized_CLIP)]
 
+[**EMNLP 2023**] Fine-grained Medical Vision-Language Representation Learning for Radiology Report Generation \
+_Siyuan Wang, Bo Peng, Yichao Liu, Qi Peng_ \
+[[paper](https://aclanthology.org/2023.emnlp-main.989/)]
+
 [**MedIA 2023**] Self-supervised multi-modal training from uncurated images and reports enables monitoring AI in radiology \
 _Sangjoon Park, Eun Sun Lee, Kyung Sook Shin, Jeong Eun Lee, Jong Chul Ye_ \
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841523002815)]
