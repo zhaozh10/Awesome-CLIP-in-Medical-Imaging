@@ -5,39 +5,40 @@
 
 :fire::fire: This is a collection of awesome articles about CLIP in medical imaging:fire::fire:
 
-<!--
-- Our survey paper on arXiv: [CLIP in medical imaging: A comprehensive survey](https://arxiv.org/abs/2211.07804) :heart: -->
+- Our survey paper on arXiv: [CLIP in medical imaging: A comprehensive survey](https://arxiv.org/abs/2312.07353)
 
-<!-- #### Citation -->
+### Citation
 
-<!-- ```python
-@article{kazerouni2023diffusion,
-  title={Diffusion models in medical imaging: A comprehensive survey},
-  author={Kazerouni, Amirhossein and Aghdam, Ehsan Khodapanah and Heidari, Moein and Azad, Reza and Fayyaz, Mohsen and Hacihaliloglu, Ilker and Merhof, Dorit},
-  journal={Medical Image Analysis},
-  pages={102846},
+```python
+@article{zhao2023clip,
+  title={CLIP in Medical Imaging: A Comprehensive Survey},
+  author={Zihao Zhao and Yuxiao Liu and Han Wu and Yonghao Li and Sheng Wang and Lin Teng and Disheng Liu and Xiang Li and Zhiming Cui and Qian Wang and Dinggang Shen},
+  journal={arXiv preprint arXiv:2312.07353},
   year={2023},
-  publisher={Elsevier}
 }
-``` -->
+```
 
 ## Overview
-1. [Updates](#updates)
-2. [Dataset Resource](#dataset-resource)
-3. [Pre-training](#pre-training)
+
+- [`Awesome CLIP in Medical Imaging`](#awesome-clip-in-medical-imaging)
+  - [Citation](#citation)
+  - [Overview](#overview)
+  - [Updates](#updates)
+  - [Dataset Resource](#dataset-resource)
+  - [Pre-training](#pre-training)
     - [Fine-grained Contrast](#fine-grained-contrast)
     - [Data-efficient](#data-efficient)
     - [Knowledge-enhanced](#knowledge-enhanced)
     - [Others](#others)
-4. [CLIP-driven Application](#clip-driven-application)
+  - [CLIP-driven Application](#clip-driven-application)
     - [Classification Task](#classification-task)
     - [Dense Prediction Task](#dense-prediction-task)
     - [Cross-modal Task](#cross-modal-task)
 
-
 ## Updates
 
-- **First release:** December 12, 2023
+- **ArXiv preprint release:** December 13, 2023
+- **Github repo release:** December 12, 2023
 
 ---
 
@@ -377,8 +378,6 @@ _An Yan, Yu Wang, Petros Karypis, Zexue He, Chengyu Dong, Zihan Wang, Yiwu Zhong
 [**arXiv 2023**] Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models \
 _Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
 [[paper](https://arxiv.org/abs/2311.14339)] [[code](https://github.com/cristianopatricio/concept-based-interpretability-vlm)]
-
-
 
 ---
 
