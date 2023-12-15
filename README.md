@@ -12,7 +12,7 @@
 ```python
 @article{zhao2023clip,
   title={CLIP in Medical Imaging: A Comprehensive Survey},
-  author={Zihao Zhao and Yuxiao Liu and Han Wu and Yonghao Li and Sheng Wang and Lin Teng and Disheng Liu and Xiang Li and Zhiming Cui and Qian Wang and Dinggang Shen},
+  author={Zihao Zhao and Yuxiao Liu and Han Wu and Yonghao Li and Sheng Wang and Lin Teng and Disheng Liu and  Zhiming Cui and Qian Wang and Dinggang Shen},
   journal={arXiv preprint arXiv:2312.07353},
   year={2023},
 }
@@ -26,14 +26,14 @@
   - [Updates](#updates)
   - [Dataset Resource](#dataset-resource)
   - [Pre-training](#pre-training)
-    - [Fine-grained Contrast](#fine-grained-contrast)
+    - [Multi-scale](#multi-scale)
     - [Data-efficient](#data-efficient)
     - [Knowledge-enhanced](#knowledge-enhanced)
     - [Others](#others)
   - [CLIP-driven Application](#clip-driven-application)
-    - [Classification Task](#classification-task)
-    - [Dense Prediction Task](#dense-prediction-task)
-    - [Cross-modal Task](#cross-modal-task)
+    - [Classification](#classification)
+    - [Dense Prediction](#dense-prediction)
+    - [Cross-modal](#cross-modal)
 
 ## Updates
 
@@ -60,7 +60,7 @@
 
 ## Pre-training
 
-### Fine-grained Contrast
+### Multi-scale
 
 [**MICCAI 2020**] Joint Modeling of Chest Radiographs and Radiology Reports for Pulmonary Edema Assessment \
 _Geeticka Chauhan, Ruizhi Liao, William Wells, Jacob Andreas, Xin Wang, Seth Berkowitz, Steven Horng, Peter Szolovits, Polina Golland_\
@@ -268,7 +268,7 @@ _Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 
 ## CLIP-driven Application
 
-### Classification Task
+### Classification
 
 [**MICCAI 2022**] CLIP-Lung: Textual Knowledge-Guided Lung Nodule Malignancy Prediction \
 _Yiming Lei, Zilong Li, Yan Shen, Junping Zhang, Hongming Shan_ \
@@ -385,7 +385,7 @@ _Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
 
 ---
 
-### Dense Prediction Task
+### Dense Prediction
 
 [**MICCAI 2022**] Radiological Reports Improve Pre-training for Localized Imaging Tasks on Chest X-Rays\
 _Philip Müller, Georgios Kaissis, Congyu Zou, Daniel Rueckert_\
@@ -433,7 +433,7 @@ _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 
 ---
 
-### Cross-modal Task
+### Cross-modal
 
 [**IPMI 2023**] X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation \
 _Tom van Sonsbeek, Marcel Worring_ \
