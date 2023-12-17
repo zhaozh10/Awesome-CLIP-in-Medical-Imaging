@@ -145,7 +145,7 @@ _Che Liu, Cheng Ouyang, Sibo Cheng, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 
 [**arXiv 2023**] Fine-Grained Image-Text Alignment in Medical Imaging
 Enables Cyclic Image-Report Generation \
-_Wenting Chen, Xiang Li2, Linlin Shen, Yixuan Yuan_ \
+_Wenting Chen, Xiang Li, Linlin Shen, Yixuan Yuan_ \
 [[paper](https://arxiv.org/abs/2312.08078)]
 
 ---
