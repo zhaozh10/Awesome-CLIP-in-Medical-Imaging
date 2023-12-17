@@ -143,6 +143,11 @@ Vision-Language Pre-training \
 _Che Liu, Cheng Ouyang, Sibo Cheng, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2312.01522)]
 
+[**arXiv 2023**] Fine-Grained Image-Text Alignment in Medical Imaging
+Enables Cyclic Image-Report Generation \
+_Wenting Chen, Xiang Li2, Linlin Shen, Yixuan Yuan_ \
+[[paper](https://arxiv.org/abs/2312.08078)]
+
 ---
 
 ### Data-efficient
