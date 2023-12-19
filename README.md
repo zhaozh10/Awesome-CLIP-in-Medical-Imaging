@@ -424,6 +424,10 @@ _Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan L. Yuille, Yaoyao Liu, Zongwei Zhou_
 _Shaoteng Zhang, Jianpeng Zhang, Yutong Xie, Yong Xia_\
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_11)] [[code](https://github.com/zhangst431/TPRO)]
 
+[**NeurIPS 2023**] Text Promptable Surgical Instrument Segmentation with Vision-Language Models \
+_Zijian Zhou, Oluwatosin Alabi, Meng Wei, Tom Vercauteren, Miaojing Shi_ \
+[[paper](https://arxiv.org/abs/2306.09244)] [[code](https://github.com/franciszzj/TP-SIS)]
+
 [**arXiv 2023**] Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models\
 _Kanchan Poudel, Manish Dhakal, Prasiddha Bhandari, Rabin Adhikari, Safal Thapaliya, Bishesh Khanal_\
 [[paper](https://arxiv.org/pdf/2308.07706.pdf)] [[code](https://github.com/naamiinepal/medvlsm)]
