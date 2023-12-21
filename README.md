@@ -468,6 +468,11 @@ _Zhanyu Wang, Mingkang Tang, Lei Wang, Xiu Li, Luping Zhou_ \
 _Jiaxiang Liu , Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao , Junhui Lv, and Zuozhu Liu_ \
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10256025)]
 
+[**AAAI 2024**] CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in
+Healthcare \
+_Akash Ghosh*, Arkadeep Acharya*, Raghav Jain, Sriparna Saha, Aman Chadha, Setu Sinha_ \
+[[paper](https://arxiv.org/abs/2312.11541)] [[code](https://github.com/AkashGhosh/CLIPSyntel-AAAI2024)]
+
 [**arXiv 2023**] PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering \
 _Xiaoman Zhang, Chaoyi Wu, Ziheng Zhao, Weixiong Lin, Ya Zhang, Yanfeng Wang, Weidi Xie_ \
 [[paper](https://arxiv.org/pdf/2305.10415.pdf)] \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
