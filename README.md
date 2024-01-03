@@ -265,6 +265,10 @@ _Kexin Ding, Mu Zhou, Dimitris N. Metaxas, Shaoting Zhang_ \
 _Zhen Chen, Qingyu Guo, Leo K. T. Yeung, Danny T. M. Chan, Zhen Lei, Hongbin Liu & Jinqiao Wang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_3)] [[code](https://github.com/franciszchen/SCA-Net)]
 
+[**ICASSP 2024**] Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training \
+_Jiuming Qin, Che Liu, Sibo Cheng, Yike Guo, Rossella Arcucci_ \
+[[paper](https://arxiv.org/abs/2401.01179)]
+
 [**arXiv 2023**] Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images \
 _Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2310.07027)]
