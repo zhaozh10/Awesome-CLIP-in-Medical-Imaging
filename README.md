@@ -20,6 +20,12 @@
 
 ## Overview
 
+<p align="center">
+  <img src="asset/overview.png">
+  <br>
+  <em>Taxonomy of studies focusing on CLIP in the field of medical imaging.</em>
+</p>
+
 - [`Awesome CLIP in Medical Imaging`](#awesome-clip-in-medical-imaging)
   - [Citation](#citation)
   - [Overview](#overview)
