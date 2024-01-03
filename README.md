@@ -179,7 +179,7 @@ _Bo Liu, Donghuan Lu, Dong Wei, Xian Wu, Yan Wang, Yu Zhang, Yefeng Zheng_ \
 
 [**QIMS 2023**] SDA-CLIP: surgical visual domain adaptation using video and text labels \
 _Yuchong Li, Shuangfu Jia, Guangbi Song, Ping Wang, Fucang Jia_ \
-[[paper](https://qims.amegroups.org/article/view/117648/html)]
+[[paper](https://qims.amegroups.org/article/view/117648/html)] [[code](https://github.com/Lycus99/SDA-CLIP)]
 
 [**arXiv 2023**] UniBrain: Universal Brain MRI Diagnosis with Hierarchical Knowledge-enhanced Pre-training \
 _Jiayu Lei, Lisong Dai, Haoyun Jiang, Chaoyi Wu, Xiaoman Zhang, Yao Zhang, Jiangchao Yao, Weidi Xie, Yanyong Zhang, Yuehua Li, Ya Zhang, Yanfeng Wang_ \
