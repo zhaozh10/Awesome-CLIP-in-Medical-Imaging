@@ -350,13 +350,13 @@ _Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Brar
 _Injae Kim, Jongha Kim, Joonmyung Choi, Hyunwoo J. Kim_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_22)]
 
+[**WACV 2024**] I-AI: A Controllable & Interpretable AI System for Decoding Radiologists' Intense Focus for Accurate CXR Diagnoses \
+_Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le_ \
+[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.html)] [[code](https://github.com/UARK-AICV/IAI)]
+
 [**arXiv 2022**] Towards Reliable Zero Shot Classification in Self-Supervised Models with Conformal Prediction \
 _Bhawesh Kumar, Anil Palepu, Rudraksh Tuwani, Andrew Beam_ \
 [[paper](https://arxiv.org/pdf/2210.15805.pdf)]
-
-[**arXiv 2023**] Decoding Radiologists Intense Focus for Accurate CXR Diagnoses: A Controllable and Interpretable AI System \
-_Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le_ \
-[[paper](https://arxiv.org/pdf/2309.13550.pdf)]
 
 [**arXiv 2023**] Domain-Controlled Prompt Learning \
 _Qinglong Cao, Zhengqin Xu, Yuantian Chen, Chao Ma, Xiaokang Yang_ \
