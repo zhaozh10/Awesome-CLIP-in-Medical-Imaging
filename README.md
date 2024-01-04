@@ -154,6 +154,14 @@ Enables Cyclic Image-Report Generation \
 _Wenting Chen, Xiang Li, Linlin Shen, Yixuan Yuan_ \
 [[paper](https://arxiv.org/abs/2312.08078)]
 
+[**arXiv 2024**] MLIP: Medical Language-Image Pre-training with Masked Local Representation Learning \
+_Jiarun Liu, Hong-Yu Zhou, Cheng Li, Weijian Huang, Hao Yang, Yong Liang, Shanshan Wang_ \
+[[paper](https://arxiv.org/abs/2401.01591)]
+
+[**arXiv 2024**] Multimodal self-supervised learning for lesion localization \
+_Hao Yang, Hong-Yu Zhou, Cheng Li, Weijian Huang, Jiarun Liu, Yong Liang, Shanshan Wang_ \
+[[paper](https://arxiv.org/abs/2401.01524)]
+
 ---
 
 ### Data-efficient
