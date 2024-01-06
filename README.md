@@ -34,6 +34,7 @@
   - [Pre-training](#pre-training)
     - [Multi-scale](#multi-scale)
     - [Data-efficient](#data-efficient)
+  - [\[paper\]](#paper)
     - [Knowledge-enhanced](#knowledge-enhanced)
     - [Others](#others)
   - [CLIP-driven Application](#clip-driven-application)
@@ -210,6 +211,10 @@ _Jongseong Jang∗, Daeun Kyung∗, Seung Hwan Kim, Honglak Lee, Kyunghoon Bae, 
 [**arXiv 2023**] IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training \
 _Che Liu, Sibo Cheng, Miaojing Shi, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2310.07355)]
+
+[**arXiv 2024**] AliFuse: Aligning and Fusing Multi-modal Medical Data for Computer-Aided Diagnosis \
+_Qiuhui Chen, Xinyue Hu, Zirui Wang, Yi Hong_ \
+[[paper](https://arxiv.org/abs/2401.01074)]
 
 ---
 
