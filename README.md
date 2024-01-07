@@ -34,7 +34,6 @@
   - [Pre-training](#pre-training)
     - [Multi-scale](#multi-scale)
     - [Data-efficient](#data-efficient)
-  - [\[paper\]](#paper)
     - [Knowledge-enhanced](#knowledge-enhanced)
     - [Others](#others)
   - [CLIP-driven Application](#clip-driven-application)
@@ -162,6 +161,10 @@ _Jiarun Liu, Hong-Yu Zhou, Cheng Li, Weijian Huang, Hao Yang, Yong Liang, Shansh
 [**arXiv 2024**] Multimodal self-supervised learning for lesion localization \
 _Hao Yang, Hong-Yu Zhou, Cheng Li, Weijian Huang, Jiarun Liu, Yong Liang, Shanshan Wang_ \
 [[paper](https://arxiv.org/abs/2401.01524)]
+
+[**arXiv 2024**] Generalizable vision-language pre-training for annotation-free pathology localization \
+_Hao Yang, Hong-Yu Zhou, Cheng Li, Weijian Huang, Jiarun Liu, Shanshan Wang_ \
+[[paper](https://arxiv.org/abs/2401.02044)]
 
 ---
 
