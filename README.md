@@ -295,6 +295,10 @@ _Jiuming Qin, Che Liu, Sibo Cheng, Yike Guo, Rossella Arcucci_ \
 _Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2310.07027)]
 
+[**arXiv 2024**] Benchmarking PathCLIP for Pathology Image Analysis \
+_Sunyi Zheng, Xiaonan Cui, Yuxuan Sun, Jingxiong Li, Honglin Li, Yunlong Zhang, Pingyi Chen, Xueping Jing, Zhaoxiang Ye, Lin Yang_\
+[[paper](https://arxiv.org/abs/2401.02651)]
+
 ---
 
 ## CLIP-driven Application
