@@ -27,7 +27,7 @@
 </p>
 
 - [`Awesome CLIP in Medical Imaging`](#awesome-clip-in-medical-imaging)
-  - [Citation](#citation)
+    - [Citation](#citation)
   - [Overview](#overview)
   - [Updates](#updates)
   - [Dataset Resource](#dataset-resource)
@@ -477,6 +477,10 @@ _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 ---
 
 ### Cross-modal
+
+[**PMLH 2021**] Retrieval-Based Chest X-Ray Report Generation Using a Pre-trained Contrastive Language-Image Model \
+_Mark Endo, Rayan Krishnan, Viswesh Krishna, Andrew Y. Ng, Pranav Rajpurkar_ \
+[[paper](https://proceedings.mlr.press/v158/endo21a.html)] [[code](https://github.com/rajpurkarlab/CXR-RePaiR)]
 
 [**IPMI 2023**] X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation \
 _Tom van Sonsbeek, Marcel Worring_ \
