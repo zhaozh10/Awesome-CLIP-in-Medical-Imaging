@@ -120,6 +120,10 @@ _Cheng Chen, Aoxiao Zhong, Dufan Wu, Jie Luo, Quanzheng Li_ \
 Yimu Pan, Tongan Cai, Manas Mehta, Alison D. Gernand, Jeﬀery A. Goldstein, Leena Mithal, Delia Mwinyelle, Kelly Gallagher, James Z. Wang \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_12)]
 
+[**MICCAI 2023**] MedIM: Boost Medical Image Representation via Radiology Report-Guided Masking \
+_Yutong Xie, Lin Gu, Tatsuya Harada, Jianpeng Zhang, Yong Xia, Qi Wu_ \
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_2)] [[code](https://github.com/YtongXie/MedIM)]
+
 [**MLHC 2023**] TIER: Text-Image Entropy Regularization for Medical CLIP-style models \
 _Anil Palepu, Andrew Beam_ \
 [[paper](https://arxiv.org/abs/2212.06710)] [[code](https://github.com/apalepu13/TIER_Regularized_CLIP)]
