@@ -470,7 +470,7 @@ _Kanchan Poudel, Manish Dhakal, Prasiddha Bhandari, Rabin Adhikari, Safal Thapal
 _Deepa Anand, Gurunath Reddy M, Vanika Singhal, Dattesh D. Shanbhag, Shriram KS, Uday Patil, Chitresh Bhushan, Kavitha Manickam, Dawei Gui, Rakesh Mullick, Avinash Gopal, Parminder Bhatia, Taha Kass-Hout_\
 [[paper](https://arxiv.org/ftp/arxiv/papers/2310/2310.18642.pdf)]
 
-[**arXiv 2023**] AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection\
+[**ICLR 2024**] AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection\
 _Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen_\
 [[paper](https://arxiv.org/pdf/2310.18961.pdf)] [[code](https://github.com/zqhang/AnomalyCLIP)]
 
