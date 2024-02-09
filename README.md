@@ -27,13 +27,14 @@
 </p>
 
 - [`Awesome CLIP in Medical Imaging`](#awesome-clip-in-medical-imaging)
-    - [Citation](#citation)
+  - [Citation](#citation)
   - [Overview](#overview)
   - [Updates](#updates)
   - [Dataset Resource](#dataset-resource)
   - [Pre-training](#pre-training)
     - [Multi-scale](#multi-scale)
     - [Data-efficient](#data-efficient)
+  - [\[paper\]](#paper)
     - [Knowledge-enhanced](#knowledge-enhanced)
     - [Others](#others)
   - [CLIP-driven Application](#clip-driven-application)
@@ -222,6 +223,10 @@ _Che Liu, Sibo Cheng, Miaojing Shi, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [**arXiv 2024**] AliFuse: Aligning and Fusing Multi-modal Medical Data for Computer-Aided Diagnosis \
 _Qiuhui Chen, Xinyue Hu, Zirui Wang, Yi Hong_ \
 [[paper](https://arxiv.org/abs/2401.01074)]
+
+[**arXiv 2024**] MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning \
+_Zhe Li, Laurence T. Yang, Bocheng Ren, Xin Nie, Zhangyang Gao, Cheng Tan, Stan Z. Li_ \
+[[paper](https://arxiv.org/abs/2402.02045)]
 
 ---
 
