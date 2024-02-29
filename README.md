@@ -370,6 +370,10 @@ _Injae Kim, Jongha Kim, Joonmyung Choi, Hyunwoo J. Kim_ \
 _Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le_ \
 [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.html)] [[code](https://github.com/UARK-AICV/IAI)]
 
+[**ISBI 2024**] Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models \
+_Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
+[[paper](https://arxiv.org/abs/2311.14339)] [[code](https://github.com/cristianopatricio/concept-based-interpretability-vlm)]
+
 [**arXiv 2022**] Towards Reliable Zero Shot Classification in Self-Supervised Models with Conformal Prediction \
 _Bhawesh Kumar, Anil Palepu, Rudraksh Tuwani, Andrew Beam_ \
 [[paper](https://arxiv.org/pdf/2210.15805.pdf)]
@@ -417,10 +421,6 @@ _Idan Glassberg, Tom Hope_ \
 [**arXiv 2023**] Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models \
 _An Yan, Yu Wang, Petros Karypis, Zexue He, Chengyu Dong, Zihan Wang, Yiwu Zhong, Jingbo Shang, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley_ \
 [[paper](https://arxiv.org/pdf/2310.03182.pdf)] \[[code](https://github.com/denizlab/MIMICCXR-MultiModal-SelfSupervision)]
-
-[**arXiv 2023**] Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models \
-_Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
-[[paper](https://arxiv.org/abs/2311.14339)] [[code](https://github.com/cristianopatricio/concept-based-interpretability-vlm)]
 
 ---
 
