@@ -34,7 +34,6 @@
   - [Pre-training](#pre-training)
     - [Multi-scale](#multi-scale)
     - [Data-efficient](#data-efficient)
-  - [\[paper\]](#paper)
     - [Knowledge-enhanced](#knowledge-enhanced)
     - [Others](#others)
   - [CLIP-driven Application](#clip-driven-application)
@@ -55,11 +54,12 @@
 | :----------------------------------------------------------------------------------: | :-------: | :---: | :--: | :-----------------------------: | :------: | :--------------: |
 |                   [ROCO](https://github.com/razorx89/roco-dataset)                   | multiple  |  87K  | 87K  |         research papers         |    En    |    PubMedCLIP    |
 |                    [MedICaT](https://github.com/allenai/medicat)                     | multiple  | 217K  | 217K |         research papers         |    En    |        /         |
-|               [PMC-OA](https://huggingface.co/datasets/axiong/pmc_oa)                | multiple  | 1.6M  | 1.6M |         research papers         |    En    |     PMCCLIP      |
+|               [PMC-OA](https://huggingface.co/datasets/axiong/pmc_oa)                | multiple  | 1.6M  | 1.6M |         research papers         |    En    |     PMC-CLIP     |
 |          [ChiMed-VL](https://huggingface.co/datasets/williamliu/ChiMed-VL)           | multiple  | 580K  | 580K |         research papers         |  En/zh   |        /         |
 |                     [FFA-IR](https://github.com/mlii0117/FFA-IR)                     |  fundus   |  1M   | 10K  |         medical reports         |  En/zh   |        /         |
 |              [PadChest](https://bimcv.cipf.es/bimcv-projects/padchest/)              |    cxr    | 160K  | 109K |         medical reports         |    Sp    |        /         |
 |             [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/)              |    cxr    | 377K  | 227K |         medical reports         |    En    | BioViL/BioViL-T  |
+|          [CT-RATE](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)           | chest ct  |  50K  | 50K  |         medicla reports         |    En    |     CT-CLIP      |
 | [OpenPath](https://drive.google.com/drive/folders/1b5UT8BzUphkHZavRG-fmiyY9JWYIWZER) | histology | 208K  | 208K |          social media           |    En    |       PLIP       |
 |                        [Quilt-1M](https://quilt1m.github.io/)                        | histology |  1M   |  1M  | research papers<br>social media |    En    |     QuiltNet     |
 
@@ -107,7 +107,7 @@ _Hong-Yu Zhou, Chenyu Lian, Liansheng Wang, Yizhou Yu_ \
 
 [**ICCV 2023**] LIMITR: Leveraging Local Information for Medical Image-Text Representation \
 _Gefen Dawidowicz, Elad Hirsch, Ayellet Tal_ \
-[[paper](https://arxiv.org/abs/2303.11755)]
+[[paper](https://arxiv.org/abs/2303.11755)] [[code](https://github.com/gefend/LIMITR)]
 
 [**ICCV 2023**] PRIOR: Prototype Representation Joint Learning from Medical Images and Reports \
 _Pujin Cheng, Li Lin, Junyan Lyu, Yijin Huang, Wenhan Luo, Xiaoying Tang_ \
