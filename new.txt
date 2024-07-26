@@ -42,17 +42,11 @@ _David A. Wood, Emily Guilhem, Sina Kafiabadi, Ayisha Al Busaidi, Kishan Dissana
 _Ibrahim Ethem Hamamci, Sezgin Er, Furkan Almas, Ayse Gulnihan Simsek, Sevval Nil Esirgun, Irem Dogan, Muhammed Furkan Dasdelen, Bastian Wittmann, Enis Simsar, Mehmet Simsar, Emine Bensu Erdemir, Abdullah Alanbay, Anjany Sekuboyina, Berkan Lafci, Mehmet K. Ozdemir, Bjoern Menze_ \
 [[paper](https://arxiv.org/pdf/2403.17834)]
 
-[**arXiv 2024**] TP-DRSeg: Improving Diabetic Retinopathy
+[**arXiv 2024**] TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM \
+_W Li, X Xiong, P Xia, L Ju, Z Ge_ \
+[[paper](https://arxiv.org/pdf/2406.15764)]
 
-Lesion Segmentation with Explicit Text-Prompts
-
-Assisted SAM \
-_Reject_ \
-[[paper](Reject)]
-
-[**arXiv 2024**] MedCLIP-SAM: Bridging Text and Image
-
-Towards Universal Medical Image Segmentation \
+[**arXiv 2024**] MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation \
 _Taha Koleilat, Hojat Asgariandehkordi, Hassan Rivaz, Yiming Xiao_ \
 [[paper](https://arxiv.org/pdf/2403.20253)]
 
