@@ -145,10 +145,6 @@ _Ke Zhang, Yan Yang, Jun Yu, Hanliang Jiang, Jianping Fan, Qingming Huang, Weido
 _Chang Shu, Yi Zhu, Xiaochu Tang, Jing Xiao, Youxin Chen, Xiu Li, Qian Zhang, Zheng Lu_ \
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423020286)] [[code](https://github.com/ZhuYi98/MITER)]
 
-[**CVPR 2024**] CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification\
-_Haoran Lai, Qingsong Yao, Zihang Jiang, Rongsheng Wang, Zhiyang He, Xiaodong Tao, S. Kevin Zhou_ \
-[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_CARZero_Cross-Attention_Alignment_for_Radiology_Zero-Shot_Classification_CVPR_2024_paper.pdf)]
-
 [**arXiv 2023**] Local Contrastive Learning for Medical Image Recognition \
 _Syed A. Rizvi, Ruixiang Tang, Xiaoqian Jiang, Xiaotian Ma, Xia Hu_ \
 [[paper](https://arxiv.org/abs/2303.14153)]
@@ -170,6 +166,10 @@ _Aohan Liu,Yuchen Guo,Jun-Hai Yong,Feng Xu_ \
 [**ICML 2024**] Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training \
 _Jinxia Yang, Bing Su, Wayne Xin Zhao, Ji-Rong Wen_ \
 [[paper](https://arxiv.org/pdf/2405.19654)]
+
+[**CVPR 2024**] CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification\
+_Haoran Lai, Qingsong Yao, Zihang Jiang, Rongsheng Wang, Zhiyang He, Xiaodong Tao, S. Kevin Zhou_ \
+[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lai_CARZero_Cross-Attention_Alignment_for_Radiology_Zero-Shot_Classification_CVPR_2024_paper.pdf)]
 
 [**arXiv 2024**] MeDSLIP: Medical Dual-Stream Language-Image Pre-training for Fine-grained Alignment \
 _Wenrui Fan, Mohammod Naimul Islam Suvon, Shuo Zhou, Xianyuan Liu, Samer Alabed, Venet Osmani, Andrew Swift, Chen Chen, Haiping Lu_ \
@@ -393,10 +393,6 @@ _Kexin Ding, Mu Zhou, Dimitris N. Metaxas, Shaoting Zhang_ \
 _Zhen Chen, Qingyu Guo, Leo K. T. Yeung, Danny T. M. Chan, Zhen Lei, Hongbin Liu & Jinqiao Wang_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_3)] [[code](https://github.com/franciszchen/SCA-Net)]
 
-[**ICASSP 2024**] Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training \
-_Jiuming Qin, Che Liu, Sibo Cheng, Yike Guo, Rossella Arcucci_ \
-[[paper](https://arxiv.org/abs/2401.01179)]
-
 [**arXiv 2023**] Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images \
 _Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2310.07027)]
@@ -416,6 +412,10 @@ _R Jin, CY Huang, C You, X Li_ \
 [**Nature Medicine 2024**] Vision–language foundation model for echocardiogram interpretation \
 _M Christensen, M Vukadinovic, N Yuan, D Ouyang_ \
 [[paper](https://www.nature.com/articles/s41591-024-02959-y.pdf)]
+
+[**ICASSP 2024**] Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training \
+_Jiuming Qin, Che Liu, Sibo Cheng, Yike Guo, Rossella Arcucci_ \
+[[paper](https://arxiv.org/abs/2401.01179)]
 
 [**arXiv 2024**] Align as Ideal: Cross-Modal Alignment Binding for Federated Medical Vision-Language Pre-training \
 _Zitao Shuai, Liyue Shen_ \
@@ -500,14 +500,6 @@ _Chantal Pellegrini, Matthias Keicher, Ege Özsoy, Petra Jiraskova, Rickmer Brar
 _Injae Kim, Jongha Kim, Joonmyung Choi, Hyunwoo J. Kim_ \
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_22)]
 
-[**WACV 2024**] I-AI: A Controllable & Interpretable AI System for Decoding Radiologists' Intense Focus for Accurate CXR Diagnoses \
-_Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le_ \
-[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.html)] [[code](https://github.com/UARK-AICV/IAI)]
-
-[**ISBI 2024**] Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models \
-_Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
-[[paper](https://arxiv.org/abs/2311.14339)] [[code](https://github.com/cristianopatricio/concept-based-interpretability-vlm)]
-
 [**arXiv 2022**] Towards Reliable Zero Shot Classification in Self-Supervised Models with Conformal Prediction \
 _Bhawesh Kumar, Anil Palepu, Rudraksh Tuwani, Andrew Beam_ \
 [[paper](https://arxiv.org/pdf/2210.15805.pdf)]
@@ -555,6 +547,14 @@ _Idan Glassberg, Tom Hope_ \
 [**arXiv 2023**] Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models \
 _An Yan, Yu Wang, Petros Karypis, Zexue He, Chengyu Dong, Zihan Wang, Yiwu Zhong, Jingbo Shang, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley_ \
 [[paper](https://arxiv.org/pdf/2310.03182.pdf)] \[[code](https://github.com/denizlab/MIMICCXR-MultiModal-SelfSupervision)]
+
+[**WACV 2024**] I-AI: A Controllable & Interpretable AI System for Decoding Radiologists' Intense Focus for Accurate CXR Diagnoses \
+_Trong Thang Pham, Jacob Brecheisen, Anh Nguyen, Hien Nguyen, Ngan Le_ \
+[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Pham_I-AI_A_Controllable__Interpretable_AI_System_for_Decoding_Radiologists_WACV_2024_paper.html)] [[code](https://github.com/UARK-AICV/IAI)]
+
+[**ISBI 2024**] Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models \
+_Cristiano Patr´ıcio, Luis F. Teixeira, Joao C. Neves_ \
+[[paper](https://arxiv.org/abs/2311.14339)] [[code](https://github.com/cristianopatricio/concept-based-interpretability-vlm)]
 
 [**CVPR 2024**] AHIVE: Anatomy-aware Hierarchical Vision Encoding for Interactive Radiology Report Retrieval \
 _Sixing Yan, William K. Cheung, Ivor W. Tsang, Keith Chiu, Terence M. Tong, Ka Chun Cheung, Simon See_ \
