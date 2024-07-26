@@ -1,0 +1,26 @@
+﻿Name,Publications,HyperCLass,Year,pdf,Area,Data,Keywords,Comments & Summary,Use
+Language Augmentation in CLIP for Improved Anatomy Detection on Multi-modal Medical Images,EMBC,Dense Prediction,2024(May),,,,,,
+Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation,arXiv,,2024(June),,cross-modal,,,,
+A self-supervised text-vision framework for automated brain abnormality detection,arXiv,Dense Prediction,2024(5),,,,,,
+Universal and Extensible Language-Vision Models for Organ Segmentation and Tumor Detection from Abdominal Computed Tomography,Medical Image Analysis,Dense Prediction,2024(5),,Segmentation,,,Extention work based on CLIP-Driven in ICCV 2023,
+A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities,arXiv,Dense Prediction,"2024(3,)",,,,,,
+Transfer CLIP for Generalizable Image Denoising,CVPR,denosing,2024 (Jun),,,,,,
+"TP-DRSeg: Improving Diabetic Retinopathy
+Lesion Segmentation with Explicit Text-Prompts
+Assisted SAM",arXiv,Dense Prediction,2024 (6),%E5%8D%8E%E5%A4%8F%E4%B8%AD%E8%B7%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%20(clip%20survey)%204f00cf997b7641aebce31e6e6ce0e0ab/2406.15764v1.pdf,Segmentation,Retinopathy,,,
+"Cross-Modal Conditioned Reconstruction for
+Language-guided Medical Image Segmentation",,Dense Prediction,2024 (6.),,,,,,
+"MedCLIP-SAM: Bridging Text and Image
+Towards Universal Medical Image Segmentation",arXiv,Dense Prediction,2024 (5),%E5%8D%8E%E5%A4%8F%E4%B8%AD%E8%B7%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%20(clip%20survey)%204f00cf997b7641aebce31e6e6ce0e0ab/2403.20253v2.pdf,Segmentation,"CT, MRI, Ultrasound",Multi-Organ Segmentation,,
+"Boosting Medical Image-based Cancer Detection
+via Text-guided Supervision from Reports",,Dense Prediction,2024 (5.),,,,,,
+Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero-shot Medical Image Segmentation,CVPR workshop,Dense Prediction,2024 (4),%E5%8D%8E%E5%A4%8F%E4%B8%AD%E8%B7%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%20(clip%20survey)%204f00cf997b7641aebce31e6e6ce0e0ab/Aleem_Test-Time_Adaptation_with_SaLIP_A_Cascade_of_SAM_and_CLIP_CVPRW_2024_paper.pdf,Segmentation,"CXR, MRI, Ultrasound",Multi-Organ Segmentation,"This work presents an in-depth exploration of integrating SAM and CLIP into a unified framework for medical image segmentation. 
+Initially, SAM is used for part-based segmentation within the image, followed by CLIP to retrieve the mask corresponding to the region of interest (ROI) from the pool of SAM’s generated masks. Finally, SAM is prompted by the retrieved ROI to segment a specific organ.",
+Efficient Medical Images Text Detection with Vision-Language Pre-training Approach,ACML,Dense Prediction,2024 (4.),,,,,,
+Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning,ICASSP,,2024 (3),%E5%8D%8E%E5%A4%8F%E4%B8%AD%E8%B7%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%20(clip%20survey)%204f00cf997b7641aebce31e6e6ce0e0ab/Sam-Guided_Enhanced_Fine-Grained_Encoding_with_Mixed_Semantic_Learning_for_Medical_Image_Captioning.pdf,,,captioning,,
+Multimodal self-supervised learning for lesion localization,arXiv,Dense Prediction,2024 (3.),,,,,,
+"ENVISIONING MEDCLIP: A DEEP DIVE INTO EXPLAINABILITY FOR MEDICAL
+VISION-LANGUAGE MODELS",arXiv,XAI,2024 (3.),,,,,,
+Perceptual Image Quality Prediction: Are Contrastive Language–Image Pretraining (CLIP) Visual Features Effective?,Electronics,,2024 (2),,,,,,
+Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays,MICCAI,Dense Prediction,2024,,,,,,
+Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images,CVPR,Dense Prediction,2024,,,,,,

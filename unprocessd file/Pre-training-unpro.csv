@@ -1,0 +1,10 @@
+Name,Publications,Year,pdf,Data,taxonomy,comment,Area
+Improving Medical Multi-modal Contrastive Learning with Expert Annotations,ECCV,2024 (March),,,,,
+Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning,arXiv,2024 (Jun),,,,,
+"SELF-SUPERVISED VISION-LANGAGE ALIGNMENT OF DEEP
+LEARNING REPRESENTATIONS FOR BONE X-RAYS ANALYSIS",arXiv,2024 (May),,,,,
+"SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity,
+ECG and Respiratory Signals",ICML,2024 (May),,,,,
+RadCLIP: Enhancing Radiologic Image Analysis through Contrastive Language-Image Pre-training,arXiv,2024 (March),,,,,
+VisionCLIP: An Med-AIGC based Ethical Language-Image Foundation Model for Generalizable Retina Image Analysis,arXiv,2024 (March),,,,,
+HecVL: Hierarchical Video-Language Pretraining for Zero-shot Surgical Phase Recognition,MICCAI,2024 (May),,Surgical,,,

@@ -1,0 +1,35 @@
+# **Others**
+
+[**IEEE TMI 2024**] UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification \
+_T Dai, R Zhang, F Hong, J Yao, Y Zhang_ \
+[[paper](https://arxiv.org/pdf/2312.11038)]
+
+[**ICASSP 2024**] Freeze the Backbones: a Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-Training \
+_C Liu, S Cheng, Y Guo, R Arcucci_ \
+[[paper](https://arxiv.org/pdf/2401.01179)]
+
+[** 2024**] MEDBind: Unifying Language and Multimodal Medical Data Embeddings \
+_Yuan Gao, Sangwook Kim, David E Austin, Chris McIntosh_ \
+[[paper](https://arxiv.org/pdf/2403.12894)]
+
+[**SaTML 2024**] Backdoor Attack on Un-paired Medical Image-Text Pretrained Models: A Pilot Study on MedCLIP \
+_Reject_ \
+[[paper](https://openreview.net/pdf?id=YymNvIkmKR)]
+
+[**Nature Medicine 2024**] Vision–language foundation model for echocardiogram interpretation \
+_Reject_ \
+[[paper](https://www.nature.com/articles/s41591-024-02959-y.pdf)]
+
+[**arXiv 2024**] Align as Ideal: Cross-Modal Alignment Binding for
+
+Federated Medical Vision-Language Pre-training \
+_Zitao Shuai, Liyue Shen_ \
+[[paper](https://arxiv.org/pdf/2404.03854)]
+
+[**arXiv 2024**] Open Challenges and Opportunities in Federated Foundation Models Towards Biomedical Healthcare \
+_Xingyu Li, Lu Peng, Yuping Wang, Weihua Zhang_ \
+[[paper](https://arxiv.org/pdf/2405.06784)]
+
+[**arXiv 2024**] Medical Vision-Language Pre-Training for Brain Abnormalities \
+_Masoud Monajatipoor, Zi-Yi Dou, Aichi Chien, Nanyun Peng, Kai-Wei Chang_ \
+[[paper](https://arxiv.org/pdf/2404.17779)]
