@@ -581,7 +581,7 @@ _Yaoqin Ye, Junjie Zhang, Hongwei Shi_ \
 [[paper](https://arxiv.org/pdf/2405.06468)]
 
 [**MDPI 2024**] MedicalCLIP: Anomaly-Detection Domain Generalization with Asymmetric Constraints \
-_ L Hua, Y Luo, Q Qi, J Long _ \
+_L Hua, Y Luo, Q Qi, J Long_ \
 [[paper](https://www.mdpi.com/2218-273X/14/5/590/pdf?version=1715863055)]
 
 [**CSCWD 2024**] A Vision-language Model Based on Prompt Learner for Few-shot Medical Images Diagnosis \
