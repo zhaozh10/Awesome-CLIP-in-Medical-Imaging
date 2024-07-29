@@ -161,7 +161,7 @@ _Wenting Chen, Xiang Li, Linlin Shen, Yixuan Yuan_ \
 
 [**IEEE TMI 2024**] Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning \
 _Aohan Liu,Yuchen Guo,Jun-Hai Yong,Feng Xu_ \
-[[paper](https://arxiv.org/abs/2401.10501)]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10458706)]
 
 [**ICML 2024**] Unlocking the Power of Spatial and Temporal Information in Medical Multimodal Pre-training \
 _Jinxia Yang, Bing Su, Wayne Xin Zhao, Ji-Rong Wen_ \
@@ -278,7 +278,7 @@ _Sajid Javed, Arif Mahmood, Iyyakutti Iyappan Ganapathi, Fayaz Ali Dharejo, Naou
 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Javed_CPLIP_Zero-Shot_Learning_for_Histopathology_with_Comprehensive_Vision-Language_Alignment_CVPR_2024_paper.pdf)]
 
 [**CAI 2024**] Enhancing Biomedical Multi-modal Representation Learning with Multi-scale Pre-training and Perturbed Report Discrimination \
-_X Zhong, K Batmanghelich, L Sun_ \
+_Xinliu Zhong, Kayhan Batmanghelich, Li Sun_ \
 [[paper](https://ieeecai.org/2024/wp-content/pdfs/540900a486/540900a486.pdf)]
 
 [**arXiv 2024**] Eye-gaze Guided Multi-modal Alignment for Medical Representation Learning \
@@ -294,8 +294,8 @@ _Louis Blankemeier, Joseph Paul Cohen, Ashwin Kumar, Dave Van Veen, Syed Jamal S
 [[paper](https://arxiv.org/pdf/2406.06512)]
 
 [**arXiv 2024**] AliFuse: Aligning and Fusing Multi-modal Medical Data for Computer-Aided Diagnosis \
-_Qiuhui Chen, Xinyue Hu, Zirui Wang, Yi Hong_ \
-[[paper](https://arxiv.org/abs/2401.01074)]
+_Qiuhui Chen, Yi Hong_ \
+[[paper](https://arxiv.org/pdf/2401.01074)]
 
 ---
 
@@ -354,7 +354,7 @@ _Zhe Li, Laurence T. Yang, Bocheng Ren, Xin Nie, Zhangyang Gao, Cheng Tan, Stan 
 [[paper](https://arxiv.org/abs/2402.02045)]
 
 [**arXiv 2024**] DeViDe: Faceted medical knowledge for improved medical vision-language pre-training \
-_H Luo, Z Zhou, C Royer, A Sekuboyina, B Menze_ \
+_Haozhe Luo, Ziyu Zhou, Corentin Royer, Anjany Sekuboyina, Bjoern Menze_ \
 [[paper](https://arxiv.org/pdf/2404.03618)]
 
 ---
@@ -398,19 +398,19 @@ _Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci_ \
 [[paper](https://arxiv.org/abs/2310.07027)]
 
 [**IEEE TMI 2024**] UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification \
-_T Dai, R Zhang, F Hong, J Yao, Y Zhang_ \
+_Tianjie Dai, Ruipeng Zhang, Feng Hong, Jiangchao Yao, Ya Zhang,Yancheng Wang_ \
 [[paper](https://arxiv.org/pdf/2312.11038)]
 
 [**ICASSP 2024**] Freeze the Backbones: a Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-Training \
-_C Liu, S Cheng, Y Guo, R Arcucci_ \
+_Jiuming Qin, Che Liu, Sibo Cheng, Yike Guo, Rossella Arcucci_ \
 [[paper](https://arxiv.org/pdf/2401.01179)]
 
 [**SaTML 2024**] Backdoor Attack on Un-paired Medical Image-Text Pretrained Models: A Pilot Study on MedCLIP \
-_R Jin, CY Huang, C You, X Li_ \
+_Ruinan Jin, Chun-Yin Huang, Chenyu You, Xiaoxiao Li_ \
 [[paper](https://openreview.net/pdf?id=YymNvIkmKR)]
 
 [**Nature Medicine 2024**] Vision–language foundation model for echocardiogram interpretation \
-_M Christensen, M Vukadinovic, N Yuan, D Ouyang_ \
+_Matthew Christensen, Milos Vukadinovic, Neal Yuan, David Ouyang_ \
 [[paper](https://www.nature.com/articles/s41591-024-02959-y.pdf)]
 
 [**ICASSP 2024**] Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training \
@@ -561,11 +561,11 @@ _Sixing Yan, William K. Cheung, Ivor W. Tsang, Keith Chiu, Terence M. Tong, Ka C
 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yan_AHIVE_Anatomy-aware_Hierarchical_Vision_Encoding_for_Interactive_Radiology_Report_Retrieval_CVPR_2024_paper.pdf)]
 
 [**IEEE Access 2024**] A Multimodal Transfer Learning Approach Using PubMedCLIP for Medical Image Classification \
-_HN Dao, T Nguyen, C Mugisha, I Paik_ \
+_HONG N DAO, TUYEN NGUYEN, CHERUBIN MUGISHA, INCHEON PAIK_ \
 [[paper](https://ieeexplore.ieee.org/iel7/6287639/6514899/10531719.pdf)]
 
 [**IEEE TMI 2024**] MCPL: Multi-modal Collaborative Prompt Learning for Medical Vision-Language Model \
-_P Wang, H Zhang, Y Yuan_ \
+_Pengyu Wang; Huaqi Zhang; Yixuan Yuan_ \
 [[paper](https://ieeexplore.ieee.org/abstract/document/10570257)]
 
 [**CVPR 2024**] FairCLIP: Harnessing Fairness in Vision-Language Learning \
@@ -573,7 +573,7 @@ _Yan Luo, Min Shi, Muhammad Osama Khan, Muhammad Muneeb Afzal, Hao Huang, Shuaih
 [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_FairCLIP_Harnessing_Fairness_in_Vision-Language_Learning_CVPR_2024_paper.pdf)]
 
 [**MICCAI 2024**] MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection \
-_X Zhang, M Xu, D Qiu, R Yan, N Lang, X Zhou_ \
+_Ximiao Zhang, Min Xu, Dehui Qiu, Ruixin Yan, Ning Lang, and Xiuzhuang Zhou_ \
 [[paper](https://arxiv.org/pdf/2405.11315)]
 
 [**PRCV 2024**] Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification \
@@ -581,15 +581,15 @@ _Yaoqin Ye, Junjie Zhang, Hongwei Shi_ \
 [[paper](https://arxiv.org/pdf/2405.06468)]
 
 [**MDPI 2024**] MedicalCLIP: Anomaly-Detection Domain Generalization with Asymmetric Constraints \
-_L Hua, Y Luo, Q Qi, J Long_ \
+_Liujie Hua , Yueyi Luo, Qianqian Qi, Jun Long_ \
 [[paper](https://www.mdpi.com/2218-273X/14/5/590/pdf?version=1715863055)]
 
 [**CSCWD 2024**] A Vision-language Model Based on Prompt Learner for Few-shot Medical Images Diagnosis \
-_S Chen, Z Feng_ \
+_Tianyou Chang, Shizhan Chen, Guodong Fan, Zhiyong Feng_ \
 [[paper](https://ieeexplore.ieee.org/abstract/document/10580842)]
 
 [**CIBM 2024**] Nodule-CLIP: Lung nodule classification based on multi-modal contrastive learning \
-_L Sun, M Zhang, Y Lu, W Zhu, Y Yi, F Yan_ \
+_Lijing Sun, Mengyi Zhang, Yu Lu, Wenjun Zhu, Yang Yi, Fei Yan _ \
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482524005894)]
 
 [**arXiv 2024**] Light-weight Fine-tuning Method for Defending Adversarial Noise in Pre-trained Medical Vision-Language Models \
@@ -597,7 +597,9 @@ _Xu Han, Linghao Jin, Xuezhe Ma, Xiaofeng Liu_ \
 [[paper](https://arxiv.org/pdf/2407.02716)]
 
 [**arXiv 2024**] A self-supervised framework for abnormality detection from brain MRI \
-_D Wood, E Guilhem, S Kafiabadi, A Al Busaidi, K Dissanayake, A Hammam_ \
+_David Wood, Emily Guilhem, Sina Kafiabadi, Ayisha Al Busaidi, Kishan Dissanayake,
+Ahmed Hammam, Nina Mansoor, Matthew Townend, Siddharth Agarwal, Yiran Wei,
+Asif Mazumder, Gareth J Barker, Peter Sasieni, Sebastien Ourselin, James H. Cole,Thomas C. Booth_ \
 [[paper](https://www.authorea.com/doi/pdf/10.22541/au.171900128.89392883)]
 
 [**arXiv 2024**] PM2: A New Prompting Multi-modal Model Paradigm for Few-shot Medical Image Classification \
@@ -609,7 +611,8 @@ _Li Lin, Yamini Sri Krubha, Zhenhuan Yang, Cheng Ren, Thuc Duy Le, Irene Amerini
 [[paper](https://arxiv.org/pdf/2403.08947)]
 
 [**arXiv 2024**] Enhancing Gait Video Analysis in Neurodegenerative Diseases by Knowledge Augmentation in Vision Language Model \
-_D Wang, K Yuan, C Muller, F Blanc, N Padoy, H Seo_ \
+_Diwei Wang, Kun Yuan, Candice Muller, Fr´ed´eric Blanc, Nicolas Padoy,
+Hyewon Seo_ \
 [[paper](https://arxiv.org/pdf/2403.13756)]
 
 ---
@@ -669,7 +672,7 @@ _Mansi Kakkar, Dattesh Shanbhag, Chandan Aladahalli, Gurunath Reddy M_ \
 [[paper](https://arxiv.org/pdf/2405.20735)]
 
 [**Medical Image Analysis 2024**] Universal and Extensible Language-Vision Models for Organ Segmentation and Tumor Detection from Abdominal Computed Tomography \
-_J Liu, Y Zhang, MC Yavuz, X Chen, Y Yuan, H Li, Y Yang, A Yuille, Y Tang, Z Zhou_ \
+_Jie Liu, Yixiao Zhang, Kang Wang, Mehmet Can Yavuz, Xiaoxi Chen, Yixuan Yuan,Haoliang Li, Yang Yang, Alan Yuille, Yucheng Tang, Zongwei Zhou_ \
 [[paper](https://arxiv.org/pdf/2405.18356)]
 
 [**CVPR workshop 2024**] Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero-shot Medical Image Segmentation \
@@ -677,7 +680,7 @@ _Sidra Aleem, Fangyijie Wang, Mayug Maniparambil, Eric Arazo, Julia Dietlmeier, 
 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/papers/Aleem_Test-Time_Adaptation_with_SaLIP_A_Cascade_of_SAM_and_CLIP_CVPRW_2024_paper.pdf)]
 
 [**ACML 2024**] Efficient Medical Images Text Detection with Vision-Language Pre-training Approach \
-_T Li, J Bai, Q Wang, H Xu_ \
+_Tianyang Li, Jinxu Bai, Qingzhu Wang, Hanwen Xu_ \
 [[paper](https://proceedings.mlr.press/v222/li24e/li24e.pdf)]
 
 [**MICCAI 2024**] Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays \
@@ -697,7 +700,7 @@ _Ibrahim Ethem Hamamci, Sezgin Er, Furkan Almas, Ayse Gulnihan Simsek, Sevval Ni
 [[paper](https://arxiv.org/pdf/2403.17834)]
 
 [**arXiv 2024**] TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM \
-_W Li, X Xiong, P Xia, L Ju, Z Ge_ \
+_Wenxue Li, Xinyu Xiong, Peng Xia, Lie Ju, Zongyuan Ge_ \
 [[paper](https://arxiv.org/pdf/2406.15764)]
 
 [**arXiv 2024**] MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation \
@@ -713,7 +716,7 @@ _Xiaoshuang Huang, Hongxiang Li, Meng Cao, Long Chen, Chenyu You, Dong An_ \
 [[paper](https://arxiv.org/pdf/2404.02845)]
 
 [**arXiv 2024**] Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports \
-_G Guo, J Yao, Y Xia, TCW Mok, Z Zheng, J Han, L Lu, D Zhang, J Zhou, L Zhang_ \
+_Guangyu Guo, Jiawen Yao, Yingda Xia, Tony C.W.Mok, Zhilin Zheng, Junwei Han, Le Lu, Dingwen Zhang, Jian Zhou, Ling Zhang_ \
 [[paper](https://arxiv.org/pdf/2405.14230)]
 
 ---
@@ -758,5 +761,5 @@ _Xiaoman Zhang, Chaoyi Wu, Ziheng Zhao, Weixiong Lin, Ya Zhang, Yanfeng Wang, We
 [[paper](https://arxiv.org/pdf/2305.10415.pdf)] \[[code](https://xiaoman-zhang.github.io/PMC-VQA/)]
 
 [**arXiv 2024**] Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation \
-_P Huang, X Gao, L Huang, J Jiao, X Li, Y Wang, Y Guo_ \
+_Peng Huang, Xue Gao, Lihong Huang, Jing Jiao, Xiaokang Li, Yuanyuan Wang, Yi Guo_ \
 [[paper](https://arxiv.org/pdf/2407.00752)] 
