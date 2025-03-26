@@ -3,18 +3,18 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-:fire::fire: This is a collection of awesome articles about CLIP in medical imaging:fire::fire:
-
-- Our survey paper on arXiv: [CLIP in medical imaging: A comprehensive survey](https://arxiv.org/abs/2312.07353)
+- Our paper has been accepted by Medical Image Analysis: [CLIP in medical imaging: A survey](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000982)
 
 ### Citation
 
 ```python
-@article{zhao2023clip,
-  title={CLIP in Medical Imaging: A Comprehensive Survey},
-  author={Zihao Zhao and Yuxiao Liu and Han Wu and Yonghao Li and Sheng Wang and Lin Teng and Disheng Liu and  Zhiming Cui and Qian Wang and Dinggang Shen},
-  journal={arXiv preprint arXiv:2312.07353},
-  year={2023},
+@article{zhao2025clip,
+  title={CLIP in medical imaging: A survey},
+  author={Zhao, Zihao and Liu, Yuxiao and Wu, Han and Wang, Mei and Li, Yonghao and Wang, Sheng and Teng, Lin and Liu, Disheng and Cui, Zhiming and Wang, Qian and others},
+  journal={Medical Image Analysis},
+  pages={103551},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
@@ -29,7 +29,6 @@
 - [`Awesome CLIP in Medical Imaging`](#awesome-clip-in-medical-imaging)
   - [Citation](#citation)
   - [Overview](#overview)
-  - [Updates](#updates)
   - [Dataset Resource](#dataset-resource)
   - [Pre-training](#pre-training)
     - [Multi-scale](#multi-scale)
@@ -40,11 +39,6 @@
     - [Classification](#classification)
     - [Dense Prediction](#dense-prediction)
     - [Cross-modal](#cross-modal)
-
-## Updates
-
-- **ArXiv preprint release:** December 13, 2023
-- **Github repo release:** December 12, 2023
 
 ---
 
